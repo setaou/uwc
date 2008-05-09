@@ -1,0 +1,209 @@
+//---------------------------
+// Ultimate Webshots Converter language file
+//---------------------------
+// If you want to translate UWC in your own language,
+// simply tranlate this file, change the 4 fields
+// below and save it to a new name.
+//
+// Please be careful to leave at least one space before
+// and after the equals character on each line
+//
+// You can add comments by adding // at the begining of
+// the line. You cannot add a comment at the end of a line.
+//---------------------------
+
+language = 한국어
+translator = 조광일 krasnaya.strela@gmail.com
+version = 1.6
+date = 15/08/2007
+
+//---------------------------
+// Main
+//---------------------------
+1 = 파일
+2 = 열기
+3 = 끝내기
+4 = 변환
+5 = 모둠변환
+6 = WBC 생성 (soon)
+7 = UWC는?
+
+8 = 입력한 파일은Webshots 파일이 아니거나 훼손되었습니다.\r\n\nFile : %s
+9 = 오류 : 알려지지 않은 파일 타입
+
+10 = Webshots 파일 열기
+
+13 = 파일이 존재하지 않습니다!\r\n\nFile : %s
+14 = 오류 : 파일이 없습니다.
+
+15 = 옵션
+16 = 언어선택
+
+18 = 웹사이트
+19 = 연락처 / 버그 보고
+
+//---------------------------
+// About dialog
+//---------------------------
+11 = 이 프로그램은... %s
+12 = 수고한 사람 :
+17 = 번역 %s : %s
+20 = 버젼 %s
+
+//---------------------------
+// Batch conversion Browse for Folder
+//---------------------------
+50 = 추가하길 원하는 폴더 가져오기
+51 = (선택된 폴더 없음)
+52 = 하부 디렉토리
+53 = 취소(&C)
+54 = 확인(&O)
+
+//---------------------------
+// Batch conversion
+//---------------------------
+100 = 파일
+101 = + 폴더(&O)
+102 = + 파일(&F) 
+103 = - 파일(&i) 
+104 = 비우기(&C)
+105 = 이중등록 방지(&v)
+
+106 = 모두 선택
+107 = 전환 선택
+108 = 필터
+109 = 미리보기 제거
+110 = 이중등록파일제거 (soon)
+111 = Custom (soon)
+112 = 열기
+113 = 제거
+
+114 = 설정
+115 = 저장할 폴더
+119 = 동일한 파일이 있을 경우 :
+120 = 건너뛰기
+121 = 덮어쓰기
+122 = 이름바꾸기
+123 = 변환(&L)
+124 = 중지(&S)
+
+125 = 변환할 파일을 최소 1개는 선택해야 합니다.
+126 = 저장할 폴더를 지정해야 합니다.
+127 = 저장할 폴더가 존재해야 합니다.
+128 = 실행기록
+129 = 오류!
+
+130 = 저장할 폴더 선택하기
+131 = 변환 목록에 파일 추가
+
+132 = [팁 1] 탐색기에서 파일이나 폴더를 드래그하여 목록에 추가할 수 있습니다. [팁 2] 파일에서 오른쪽 마우스버튼을 이용해 옵션 메뉴를 불러올 수 있습니다.
+133 = 원본 파일이 있는 곳과 동일한 폴더
+
+134 = 현재 폴더에 파일 저장하기
+135 = 각각의 컬렉션마다 따로 폴더 만들기
+136 = 원래 분류에 따라 파일 정돈하기
+
+137 = 원래의 파일이름 보존
+138 = 파일에 그림의 이름을 넣기
+139 = 파일에 그림의 아이디 넣기
+
+140 = [개별설정]
+
+//---------------------------
+// Conversion Log
+//---------------------------
+150 = 변환을 시작합니다.
+151 = 사용자가 중지시켰습니다!
+152 = 변환중 %s ...
+153 = [%s]으로 변환됨
+154 = 건너뜀 : [%s]이 이미 있습니다.
+155 = 실패 : 잘못되거나 훼손된 파일!
+156 = 변환 완료 !
+157 = %d 개의 파일 검색, %d 개의 영상이 있음.
+158 = %d 개를 변환함, %d 개를 이름바꿈, %d 개를 건너뜀.
+159 = 완료
+160 =   --> [%s] 을(를) [%s]로 변환
+161 =   --> [%s] 을(를) 건너뜀 : [%s] 이 이미 있음
+
+//---------------------------
+// WB* Viewer
+//---------------------------
+200 = 미리보기
+201 = 미리보기 : %s
+202 = > 추가정보 :
+203 =  - 제목 : %s
+204 =  - 설명 : %s
+205 =  - 크레디트 : %s
+206 =  - ID : %s
+207 =  - 크기 : %dx%d
+208 =  - 분류항목 :
+
+209 = 그림 저장
+210 = 윈도우에 맞춤
+211 = 실제 크기
+212 = 모든 그림 저장
+
+213 = 이 파일은 훼손되었거나 아무런 그림이 없습니다.
+214 = 오류 : 훼손된 파일
+
+215 = 그림목록
+216 = Picture n?%d
+217 = 추출 ...
+218 = 읽기 ...
+219 = 크기재설정 ...
+220 = 디스플레이 ...
+
+221 = 컬렉션의 모든 그림을 저장할 폴더 선택하기
+222 = 저장 : %s ...
+
+223 =  - 날짜 : %s
+
+//---------------------------
+// Formats
+//---------------------------
+250 = Webshots Collection
+251 = Webshots Archive
+252 = Webshots Picture
+
+253 = JPEG Picture
+254 = 모든 Webshots 파일
+255 = 컬렉션
+256 = 그림
+257 = Archives
+
+//---------------------------
+// Language choice
+//---------------------------
+300 = 언어 선택
+301 = 언어 :
+302 = 버젼 : %s
+303 = 한국어번역 : %s
+304 = 날짜 : %s
+305 = 확인(&O)
+306 = 언어파일의 버전(%s)이 UWC 버전(%s)과 다릅니다. 일부의 메뉴 목록이 올바르지 않게 보여질 수 있습니다.
+
+//---------------------------
+// Template editor
+//---------------------------
+350 = 표현식 에디터
+351 = 표현식 :
+352 = 변수
+353 = 설명
+
+354 = > %pic.title\n\n그림 제목
+355 = > %pic.id\n\n그림 ID
+356 = > %pic.desc\n\n그림 설명
+357 = > %pic.credit\n\n그림 크레디트
+358 = > %pic.cat.root\n\n그림의 상위 분류목록
+359 = > %pic.cat.child\n\n그림의 하뤼 분류목록
+360 = > %col.title\n\n컬렉션 제목 (WBC only)
+361 = > %col.filename\n\n컬렉션 파일 이름 (WBC only)
+362 = > %file.name\n\n그림 파일 이름 (그림이 컬렉션의 일부일 때는 그림의 원래 이름)
+363 = > %file.path\n\n그림(혹은 컬렉션)이 있는 폴더 경로
+364 = > %dest.path\n\n모둠변환 창에서 선택된 경로.\n\n/!\  언제나 "\"로 끝남.  /!\
+
+365 = The character | allows to define alternative expressions : if, in the first alternative expression, at least one variable or sub-expression is not defined (= is empty), UWC will evaluate the second alternative expression, and so on. An expression between parenthesis is a sub-expression, the same rules as in the expressions are applied.\n\nExample:\n\nabc \%a|test \%b|def (123 \%c|456 \%d)\n\nIf \%a is defined, it will return 'abc \%a'\nIf \%a is not defined and %b is, it will return 'test \%b'\nIf \%a and \%b are not defined and\n  - \%c is defined : it will return 'def 123 \%c'\n  - \%d is defined : it will return 'def 456 \%d'
+
+366 = 도움
+
+367 = > %pic.dailydate\n\nDaily Date

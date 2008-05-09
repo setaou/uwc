@@ -1,0 +1,27 @@
+[History]
+1=#P0#=mb	#P1#=Width	#P2#=UWC/pcMemDC/Width [Let]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20070819001917	#P7#=0	#P8#=1	.
+2=#P0#=mb	#P1#=Paypal_Click	#P2#=UWC/MainForm/Paypal_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20070815235342	#P7#=0	#P8#=-2	.
+3=#P0#=mb	#P1#=mnuMassConvert_Click	#P2#=UWC/MainForm/mnuMassConvert_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20070815234854	#P7#=0	#P8#=2	.
+4=#P0#=mb	#P1#=mnuOptionsLangue_Click	#P2#=UWC/MainForm/mnuOptionsLangue_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20070815234335	#P7#=0	#P8#=9	.
+5=#P0#=mb	#P1#=TranslateForm	#P2#=UWC/MainForm/TranslateForm	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20070815192935	#P7#=0	#P8#=6	.
+6=#P0#=mb	#P1#=lstVariables_Click	#P2#=UWC/ExprEdit/lstVariables_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20070815192357	#P7#=0	#P8#=17	.
+7=#P0#=mb	#P1#=Command4_Click	#P2#=UWC/MassConvert/Command4_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20070815192228	#P7#=0	#P8#=209	.
+8=#P0#=mb	#P1#=Eval	#P2#=UWC/cEvalExpr/Eval	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20070815192011	#P7#=0	#P8#=50	.
+9=#P0#=mb	#P1#=OpenFilePhotos	#P2#=UWC/cPhotos_Txt_File/OpenFilePhotos	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20070815190637	#P7#=0	#P8#=1	.
+10=#P0#=mb	#P1#=Daily_Date	#P2#=UWC/cWBC_File_Picture/Daily_Date [Get]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20070815190423	#P7#=0	#P8#=2	.
+11=#P0#=mb	#P1#=List1_Click	#P2#=UWC/WBC/List1_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20070815190325	#P7#=0	#P8#=66	.
+12=#P0#=mb	#P1#=Chargement	#P2#=UWC/WBZ/Chargement	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20070815190313	#P7#=0	#P8#=48	.
+13=#P0#=mb	#P1#=PictureDailyDate	#P2#=UWC/cWBZ_File/PictureDailyDate [Get]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20070815190153	#P7#=0	#P8#=2	.
+14=#P0#=mb	#P1#=OpenFile	#P2#=UWC/cWBC_File/OpenFile	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20070815185832	#P7#=0	#P8#=63	.
+15=#P0#=mb	#P1#=Constructor	#P2#=UWC/cWBC_File_Picture/Constructor	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20070815185624	#P7#=0	#P8#=15	.
+16=#P0#=mb	#P1#=Picture_ID	#P2#=UWC/cWBC_File_Picture/Picture_ID [Get]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20070815184846	#P7#=0	#P8#=-1	.
+17=#P0#=mb	#P1#=Fit_To_Screen	#P2#=UWC/cWBC_File_Picture/Fit_To_Screen [Get]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20070815184831	#P7#=0	#P8#=0	.
+18=#P0#=mb	#P1#=PicturePosition	#P2#=UWC/cWBZ_File/PicturePosition [Get]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20070815184611	#P7#=0	#P8#=4	.
+19=#P0#=mb	#P1#=OpenFile	#P2#=UWC/cWBZ_File/OpenFile	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20070815184604	#P7#=0	#P8#=18	.
+20=#P0#=mb	#P1#=PictureRootCategory	#P2#=UWC/cWBZ_File/PictureRootCategory [Get]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20070815184536	#P7#=0	#P8#=1	.
+21=#P0#=mb	#P1#=Save_BMP_Thumbnail	#P2#=UWC/cWBC_File_Picture/Save_BMP_Thumbnail	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20070815184347	#P7#=0	#P8#=8	.
+22=#P0#=mb	#P1#=ExtractInfo	#P2#=UWC/cWBZ_File/ExtractInfo	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20070815183444	#P7#=0	#P8#=1	.
+23=#P0#=mb	#P1#=Description	#P2#=UWC/cWBZ_File/Description [Get]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20070815183355	#P7#=0	#P8#=1	.
+24=#P0#=mb	#P1#=Toolbar1_ButtonClick	#P2#=UWC/WBC/Toolbar1_ButtonClick	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20070623213813	#P7#=0	#P8#=27	.
+25=#P0#=mb	#P1#=FormatPath	#P2#=UWC/mMisc/FormatPath	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20070623213532	#P7#=0	#P8#=3	.
+26=#P0#=mb	#P1#=OpenFileAlbum	#P2#=UWC/cPhotos_Txt_File/OpenFileAlbum	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20070623211238	#P7#=0	#P8#=5	.

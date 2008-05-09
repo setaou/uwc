@@ -1,0 +1,207 @@
+//---------------------------
+// Ultimate Webshots Converter language file
+//---------------------------
+// If you want to translate UWC in your own language,
+// simply tranlate this file, change the 4 fields
+// below and save it to a new name.
+//
+// Please be careful to leave at least one space before
+// and after the equals character on each line
+//
+// You can add comments by adding // at the begining of
+// the line. You cannot add a comment at the end of a line.
+//---------------------------
+
+language = Svenska
+translator = Mikael HafO
+version = 1.6
+date = 2008-08-16
+
+//---------------------------
+// Main
+//---------------------------
+1 = Arkiv
+2 = Öppna
+3 = Avsluta
+4 = Konvertering
+5 = Konvertera filgrupp
+6 = Skapa WBC-filer (snart)
+7 = Om UWC
+
+8 = Filen du försöker öppna är antingen i ett Webshots-format som inte stöds, eller korrupt.\r\n\nFil: %s
+9 = Fel: Okänt filformat
+
+10 = Öppna en Webshots-fil
+
+13 = Filen du försöker öppna existerar inte!\r\n\nFil: %s
+14 = Fel: Filen kunde inte hittas
+
+15 = Inställningar
+16 = Välj språk
+
+18 = Hemsida
+19 = Kontakt / Rapportera buggar
+
+//---------------------------
+// About dialog
+//---------------------------
+11 = Om %s
+12 = Tack till:
+17 = Översättning till %s: %s
+20 = Version %s
+
+//---------------------------
+// Batch conversion Browse for Folder
+//---------------------------
+50 = Sök efter den mapp du vill lägga till
+51 = (Ingen mapp vald)
+52 = Avsök mapparna rekurrent
+53 = &Avbryt
+54 = &OK
+
+//---------------------------
+// Batch conversion
+//---------------------------
+100 = Filer
+101 = + M&app
+102 = + &Fil
+103 = - F&il
+104 = &Rensa
+105 = U&ndvik dubbletter
+106 = Markera alla
+107 = Inverera val
+108 = Filter
+109 = Tag bort förhandsgranskningar
+110 = Tag bort dubbletter (snart)
+111 = Egna val (snart)
+112 = Öppna
+113 = Tag bort
+
+114 = Inställningar
+115 = Målmapp
+119 = Om en fil redan existerar:
+120 = Hoppa över
+121 = Skriv över
+122 = Döp om
+123 = &Konvertera!
+124 = &Stopp
+
+125 = Du måste välja åtminstone en fil att konvertera!
+126 = Du måste välja en målmapp!
+127 = Du måste välja en existerande målmapp!
+128 = Logg
+129 = Fel!
+
+130 = Välj målmapp
+131 = Lägg till en fil i konverteringslistan
+
+132 = [Tips 1] Du kan dra och släppa filer och mappar här för att lägga till dem i konverteringslistan | [Tips 2] Högerklicka på en fil i listan för fler alternativ!
+133 = Samma mapp som originalfilen
+
+134 = Lägg filerna i rotkatalogen
+135 = Skapa en folder för varje samling (WBC)
+136 = Sortera filerna efter deras ursprungliga kategorier
+
+137 = Behåll originalfilernas filnamn
+138 = Ge filerna samma namn som bilden
+139 = Ge filerna samma ID som bilden
+
+140 = [Anpassa]
+
+//---------------------------
+// Conversion Log
+//---------------------------
+150 = Konvertering påbörjas...
+151 = Stoppad av användaren!
+152 = Konverterar %s ...
+153 = Konverterades till [%s]
+154 = Hoppade över: [%s] existerar redan
+155 = Misslyckades: Ogiltig eller korrupt fil!
+156 = Konvertering avslutad!
+157 = %d skannade filer, innehållande %d bilder.
+158 = %d konverterade bilder, varav %d omdöpta, %d överhoppade.
+159 = Avslutad
+160 =   --> [%s] konverterades till [%s]
+161 =   --> [%s] hoppades över: [%s] existerar redan
+//---------------------------
+// WB* Viewer
+//---------------------------
+200 = Förhandsgranskning
+201 = Förhandsgranskning: %s
+202 = > Ytterligare information:
+203 =  - Titel: %s
+204 =  - Beskrivning: %s
+205 =  - Upphovsman: %s
+206 =  - ID: %s
+207 =  - Storlek: %dx%d
+208 =  - Kategori:
+
+209 = Spara bild
+210 = Anpassa till fönster
+211 = Verklig storlek
+212 = Spara alla bilder
+
+213 = Den här filen är korrupt, eller innehåller ingen bild!
+214 = Fel: Korrupt fil
+
+215 = Bildlista
+216 = Bild nr. %d
+217 = Extraherar...
+218 = Laddar...
+219 = Ändrar storlek...
+220 = Visar...
+
+221 = Sök efter den mapp där du vill spara alla bilderna i den här samlingen
+222 = Sparar: %s ...
+
+223 =  - Datum: %s
+
+//---------------------------
+// Formats
+//---------------------------
+250 = Webshots-samling
+251 = Webshots-arkiv
+252 = Webshots-bild
+
+253 = JPEG-bild
+254 = Alla Webshots-filer
+255 = Samlingar
+256 = Bilder
+257 = Arkiv
+
+//---------------------------
+// Language choice
+//---------------------------
+300 = Valt språk
+301 = Språk:
+302 = Version: %s
+303 = Översättare: %s
+304 = Datum: %s
+305 = &OK
+306 = Språkfilens versionsnummer (%s) avviker från UWC:s versionsnummer (%s). En del text kanske inte visas korrekt.
+
+//---------------------------
+// Template editor
+//---------------------------
+350 = Mallar för mappar och filer
+351 = Uttryck:
+352 = Variabler
+353 = Beskrivning
+
+354 = > %pic.title\n\nBildens titel
+355 = > %pic.id\n\nBildens ID
+356 = > %pic.desc\n\nBildens beskrivning
+357 = > %pic.credit\n\nBildens upphovsman
+358 = > %pic.cat.root\n\nBild: Rotkategori
+359 = > %pic.cat.child\n\nBild: Barnkategori
+360 = > %col.title\n\nSamlingens titel (endast WBC)
+361 = > %col.filename\n\nSamlingens filnamn (endast WBC)
+362 = > %file.name\n\nBildens filnamn (om bilden är en del av en samling gäller bildens ursprungliga filnamn)
+363 = > %file.path\n\nSökväg till den mapp som innehåller bilden (eller samlingen)
+364 = > %dest.path\n\nSökväg vald i fönstret "Konvertera filgrupp".\n\n(OBS!   Slutar alltid med "\")
+
+365 = Symbolen | gör det möjligt att ange alternativa uttryck, med prioriteringsordning i den ordning de anges (förstahandsval, andrahandsval, tredjehandsval, etc.). Om det i det första uttrycket finns åtminstone en variabel eller ett underuttryck som är odefinierat (d.v.s. är tomt), kommer UWC att försöka följa det andra, alternativa uttrycket o.s.v. Ett uttryck inom parentes är ett underuttryck, samma prioriteringsregler gäller för dessa som för uttryck.\n\nExempel:\n\nabc \%a|test \%b|def (123 \%c|456 \%d)\n\nOm \%a definieras, kommer strängen att skrivas 'abc \%a'\nOm \%a inte kan definieras, men %b kan det, kommer strängen att skrivas 'test \%b'\nOm varken \%a eller \%b kan definieras, men\n  - \%c kan det, kommer strängen att skrivas 'def 123 \%c'\n  - \%d kan det, kommer strängen att skrivas 'def 456 \%d'
+
+366 = Hjälp
+
+367 = > %pic.dailydate\n\nDatum

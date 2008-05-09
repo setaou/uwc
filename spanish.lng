@@ -1,0 +1,205 @@
+//---------------------------
+// Ultimate Webshots Converter language file
+//---------------------------
+// If you want to translate UWC in your own language,
+// simply tranlate this file, change the 4 fields
+// below and save it to a new name.
+//
+// Please be careful to leave at least one space before
+// and after the equals character on each line
+//
+// You can add comments by adding // at the begining of
+// the line. You cannot add a comment at the end of a line.
+//---------------------------
+
+language = Español
+translator = Carlos Ariel Vazquez (TuRCko)
+version = 1.6
+date = 11/04/2005
+
+//---------------------------
+// Main
+//---------------------------
+1 = Archivo
+2 = Abrir
+3 = Salir
+4 = Conversión
+5 = Conversión en Bloque
+6 = Crear WBC (proximamente)
+7 = Acerca
+
+8 = El archivo que intentas abrir no es de Webshots o está corrupto.\r\n\nArchivo : %s
+9 = Error : Tipo de archivo desconocido
+
+10 = Abrir archivo Webshots
+
+13 = El archivo que intentas abrir no existe !\r\n\nArchivo : %s
+14 = Error : Archivo no encontrado
+
+15 = Opciones
+16 = Elegir idioma
+
+18 = Sitio Web
+19 = Contacto / Reporte de Errores
+
+//---------------------------
+// About dialog
+//---------------------------
+11 = Acerca de %s
+12 = Agradecimientos :
+17 = Traducción al %s : %s
+20 = Versión %s
+
+//---------------------------
+// Batch conversion Browse for Folder
+//---------------------------
+50 = Buscar carpeta a agregar
+51 = (Sin carpeta seleccionada)
+52 = Incluír subdirectorios
+53 = &Cancelar
+54 = &Ok
+
+//---------------------------
+// Batch conversion
+//---------------------------
+100 = Archivos
+101 = + C&arpeta
+102 = + &Archivo
+103 = - A&rchivo
+104 = &Limpiar
+105 = E&vitar duplicados
+
+106 = Seleccionar todo
+107 = Invertir selección
+108 = Filtros
+109 = Quitar vistas previas
+110 = Quitar duplicados (proximamente)
+111 = Personalizar (proximamente)
+112 = Abrir
+113 = Quitar
+
+114 = Configuración
+115 = Carpeta de destino
+119 = si un archivo ya existe :
+120 = Ignorar
+121 = Sobreescribir
+122 = Renombrar
+123 = &Iniciar conversión !
+124 = &Parar
+
+125 = Debes elegir al menos un archivo a convertir !
+126 = Debes elegir una carpeta de destino !
+127 = Debes elegir una carpeta existente como destino !
+128 = Registro
+129 = Error !
+
+130 = Buscar una carpeta de destino
+131 = Agregar archivo a la lista de conversión
+
+132 = [Consejo 1] Puedes arrastrar y soltar archivos y carpetas aquí para agregarlas a la lista    [Consejo 2] Presione botón derecho en un archivo de la lista para acceder al menu de opciones !
+133 = Igual carpeta que el original
+
+134 = Poner los archivos en la raíz del directorio
+135 = Crear una carpeta para cada colección (WBC)
+136 = Ordenar archivos de acuerdo a sus categorías originales
+
+137 = Mantener nomre de archivo original
+138 = Nombrar al archivo con el nombre de la imágen
+139 = Nombrar al archivo con el ID de la imágen
+
+140 = [Personalizar]
+
+//---------------------------
+// Conversion Log
+//---------------------------
+150 = Iniciando conversión ...
+151 = Parado por el usuario !
+152 = Convirtiendo %s ...
+153 = Convertido a [%s]
+154 = Ignorado : [%s] ya existe
+155 = Fallo : Archivo corrupto o inválido !
+156 = Conversión finalizada !
+157 = %d archivos escaneados, conteniendo %d imágenes.
+158 = %d imágenes convertidas, de las cuales %d renombradas, %d ignoradas.
+159 = Terminado
+160 =   --> [%s] convertido a [%s]
+161 =   --> [%s] ignorado : [%s] ya existe
+
+//---------------------------
+// WB* Viewer
+//---------------------------
+200 = Vista previa
+201 = Vista previa : %s
+202 = > Información adicional :
+203 =  - Título : %s
+204 =  - Descripción : %s
+205 =  - Créditos : %s
+206 =  - ID : %s
+207 =  - Tamaño : %dx%d
+208 =  - Categoría :
+
+209 = Guardar imágen
+210 = Ajustar a ventana
+211 = Tamaño real
+212 = Guardar todas las imágenes
+
+213 = Este archivo está corrupto o no contiene ninguna imágen !
+214 = Error : Archivo corrupto
+
+215 = Lista de imágenes
+216 = Imágen n° %d
+217 = Extrayendo ...
+218 = Cargando ...
+219 = Redimencionando ...
+220 = Visualizando ...
+
+221 = Buscar carpeta donde guardar todas las imágenes de la colección
+222 = Guardando : %s ...
+
+//---------------------------
+// Formats
+//---------------------------
+250 = Colección de Webshots
+251 = Archivo de Webshots
+252 = Imágen de Webshots
+
+253 = JPEG Picture
+254 = All Webshots files
+255 = Collections
+256 = Pictures
+257 = Archives
+
+//---------------------------
+// Language choice
+//---------------------------
+300 = Elegir idioma
+301 = Idioma :
+302 = Versión : %s
+303 = Traductor : %s
+304 = Fecha : %s
+305 = &Ok
+306 = La versión del archivo de idioma (%s) difiere de la version de UWC (%s). Algunos textos pueden no verse correctamente.
+
+//---------------------------
+// Template editor
+//---------------------------
+350 = Editor de expresión
+351 = Expresión :
+352 = Variables
+353 = Descripcíon
+
+354 = > %pic.title\n\nTítulo de la imágen
+355 = > %pic.id\n\nID de la imágen
+356 = > %pic.desc\n\nDescripción de la imágen
+357 = > %pic.credit\n\nCréditos de la imágen
+358 = > %pic.cat.root\n\nCategoría raíz de la imágen
+359 = > %pic.cat.child\n\nCategoría hijo de la imágen
+360 = > %col.title\n\nTítulo de colección (solo WBC)
+361 = > %col.filename\n\nNombre del archivo de colección (solo WBC)
+362 = > %file.name\n\nNombre del archivo de imagen (si la imagen es parte de una coleción, es el nombre original de la imágen)
+363 = > %file.path\n\nRuta a la carpeta que contiene la imágen (o la colección)
+364 = > %dest.path\n\nRuta seleccionada en la ventana de "Conversión en Bloque".\n\n/!\   Siempre termina con "\"   /!\
+
+365 = El caracter | permite definir expresiones alternativas : si, en la primera expresión alternativa, al menos una variable o sub-expresión no está definida (= esta vacía), UWC evaluará la segunda expresión alternativa, y así en adelante. Una expresión entre parentesis es una sub-expresión, las mismas reglas que en las expresiones son aplicadas.\n\nPor Ejemplo:\n\nabc \%a|prueba \%b|def (123 \%c|456 \%d)\n\nSi \%a es definido, devolverá 'abc \%a'\nSi \%a no es definido y %b sí, devolverá 'prueba \%b'\nSi \%a y \%b no son definidos y\n  - \%c es definido : devolverá 'def 123 \%c'\n  - \%d es definido : devolverá 'def 456 \%d'
+
+366 = Ayuda

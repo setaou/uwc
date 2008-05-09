@@ -1,0 +1,205 @@
+//---------------------------
+// Ultimate Webshots Converter language file
+//---------------------------
+// If you want to translate UWC in your own language,
+// simply tranlate this file, change the 4 fields
+// below and save it to a new name.
+//
+// Please be careful to leave at least one space before
+// and after the equals character on each line
+//
+// You can add comments by adding // at the begining of
+// the line. You cannot add a comment at the end of a line.
+//---------------------------
+
+language = Èeština (Czech)
+translator = Boris
+version = 1.6
+date = 21/12/2005
+
+//---------------------------
+// Main
+//---------------------------
+1 = Soubor
+2 = Otevøít
+3 = Ukonèit
+4 = Konverze
+5 = Dávková konverze
+6 = Vytvoøit WBC (bude brzy)
+7 = O programu
+
+8 = Soubor není ve známém formátu Webshots nebo je poškozen.\r\n\nFile : %s
+9 = Chyba : Neznámý typ souboru
+
+10 = Otevøít soubor Webshots
+
+13 = Soubor k otevøení neexistuje !\r\n\nFile : %s
+14 = Chyba : Soubor nenalezen
+
+15 = Nastavení
+16 = Zvolit jazyk
+
+18 = Internetová stránka
+19 = Kontakt / Hlášení chyb
+
+//---------------------------
+// About dialog
+//---------------------------
+11 = O programu %s
+12 = Pozdravy :
+17 = Pøeložil do %s : %s
+20 = Verze %s
+
+//---------------------------
+// Batch conversion Browse for Folder
+//---------------------------
+50 = Vyhledat Složku ke pøidání do seznamu
+51 = (Nebyl vybrán žádný adresáø)
+52 = Vèetnì podadresáøù
+53 = &Pøerušit
+54 = &OK
+
+//---------------------------
+// Batch conversion
+//---------------------------
+100 = Soubory
+101 = + &Adresáø
+102 = + &Soubor
+103 = - S&oubor
+104 = &Vymazat
+105 = S&tejné vyøadit
+
+106 = Vybrat všechno
+107 = Invertovat výbìr
+108 = Filtr
+109 = Odebrat výbìr
+110 = Odebrat vyskytující se dvakrát (bude brzy)
+111 = Definováno uživatelem (bude brzy)
+112 = Otevøít
+113 = Odstranit
+
+114 = Nastavení
+115 = Cílová složka
+119 = Jestliže soubor již existuje :
+120 = Pøeskoèit
+121 = Pøepsat
+122 = Pøejmenovat
+123 = &Konvertovat !
+124 = &Zastavit
+
+125 = Musí být vybrán alespoò jeden soubor ke konverzi !
+126 = Musí být vybrána cílová složka !
+127 = Cílová složka musí existovat !
+128 = Log
+129 = Chyba !
+
+130 = Vyhledat cílovou složku
+131 = Pøidat soubor k seznamu
+
+132 = [Tip 1] Soubory mohou být pøidány do seznamu stylem Drag && Drop   [Tip 2] Kliknutím pravým myšítkem na soubor otevøete menu Možnosti !
+133 = Stejná složka jako originál
+
+134 = Soubory uložit do cílové složky
+135 = Vytvoøit složku zvláš pro každou kolekci (WBC)
+136 = Tøídit soubory podle svých kategorií
+
+137 = Zachovat originální název souboru
+138 = Soubory pojmenovat podle názvù obrázkù
+139 = Soubory pojmenovat podle ID obrázkù
+
+140 = [Definováno uživatelem]
+
+//---------------------------
+// Conversion Log
+//---------------------------
+150 = Konverze startuje ...
+151 = Zastaveno uživatelem !
+152 = Konvertuji %s ...
+153 = Zkonvertováno do [%s]
+154 = Zrušeno : [%s] již existuje
+155 = Selhalo : Neplatný nebo poškozený soubor !
+156 = Konverze dokonèena !
+157 = %d zkoumaných souborù, obsahujících %d obrázkù.
+158 = %d zkonvertovaných obrázkù, z toho %d pøejmenováno, %d zrušeno.
+159 = Dokonèeno
+160 =   --> [%s] Zkonvertováno do [%s]
+161 =   --> [%s] zrušeno : [%s] již existuje
+
+//---------------------------
+// WB* Viewer
+//---------------------------
+200 = Náhled
+201 = Náhled : %s
+202 = > Dodateèné informace :
+203 =  - Titulek : %s
+204 =  - Popis : %s
+205 =  - Autor : %s
+206 =  - ID : %s
+207 =  - Velikost : %dx%d
+208 =  - Kategorie :
+
+209 = Uložit obrázek
+210 = Pøizpùsobit oknu
+211 = Skuteèná velikost
+212 = Uložit všechny obrázky
+
+213 = Soubor je poškozen nebo neobsahuje žádný obrázek !
+214 = Chyba : poškozený soubor
+
+215 = Seznam obrázkù
+216 = Obrázek è. %d
+217 = Extrahuji ...
+218 = Nahrávám ...
+219 = Pøizpùsobit velikost ...
+220 = Ukázat ...
+
+221 = Vyhledat adresáø, do kterého budou uloženy všechny obrázky kolekce
+222 = Uložit : %s ...
+
+//---------------------------
+// Formats
+//---------------------------
+250 = Kolekce Webshots
+251 = Archiv Webshots 
+252 = Obrázek Webshots
+
+253 = JPEG Obrázky
+254 = všechny soubory Webshots
+255 = Kolekce
+256 = obrázky
+257 = Archivy
+
+//---------------------------
+// Language choice
+//---------------------------
+300 = Výbìr jazyka
+301 = Jazyk :
+302 = Verze : %s
+303 = Pøeložil : %s
+304 = Datum : %s
+305 = &OK
+306 = Èísla verzí jazykových souborù (%s) se liší od èísla verze UWC (%s). Nìkteré texty mohou být zobrazeny nesprávnì.
+
+//---------------------------
+// Template editor
+//---------------------------
+350 = Editor výrazù
+351 = Výraz :
+352 = Variables
+353 = Popis
+
+354 = > %pic.title\n\nTitulek obrázku
+355 = > %pic.id\n\nID obrázku
+356 = > %pic.desc\n\npopis obrázku
+357 = > %pic.credit\n\nautor obrázku
+358 = > %pic.cat.root\n\nHlavní kategorie obrázku
+359 = > %pic.cat.child\n\npodkatehorie obrázku
+360 = > %col.title\n\ntitulek kolekce (jen WBC)
+361 = > %col.filename\n\nnázev souboru kolekce (jen WBC)
+362 = > %file.name\n\nnázev souboru obrázku (když je obrázek souèástí kolekce je to originální jméno souboru obrázku)
+363 = > %file.path\n\ncesta ke složce s obrázky (nebo s kolekcemi)
+364 = > %dest.path\n\ncesta ke složce v oknì "dávkové konverze" .\n\n/!\   Vždy ukonèit pomocí "\"   /!\
+
+365 = Symbol | umožòuje definovat alternativní výrazy : if, in the first alternative expression, at least one variable or sub-expression is not defined (= is empty), UWC will evaluate the second alternative expression, and so on. An expression between parenthesis is a sub-expression, the same rules as in the expressions are applied.\n\nExample:\n\nabc \%a|test \%b|def (123 \%c|456 \%d)\n\nIf \%a is defined, it will return 'abc \%a'\nIf \%a is not defined and %b is, it will return 'test \%b'\nIf \%a and \%b are not defined and\n  - \%c is defined : it will return 'def 123 \%c'\n  - \%d is defined : it will return 'def 456 \%d'
+
+366 = Nápovìda

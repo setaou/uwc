@@ -1,0 +1,205 @@
+//---------------------------
+// Ultimate Webshots Converter language file
+//---------------------------
+// If you want to translate UWC in your own language,
+// simply tranlate this file, change the 4 fields
+// below and save it to a new name.
+//
+// Please be careful to leave at least one space before
+// and after the equals character on each line
+//
+// You can add comments by adding // at the begining of
+// the line. You cannot add a comment at the end of a line.
+//---------------------------
+
+language = Indonesia
+translator = mentholphetamine@gmail.com
+version = 1.6
+date = 18/09/2004
+
+//---------------------------
+// Utama
+//---------------------------
+1 = File
+2 = Buka
+3 = Keluar
+4 = Konversi
+5 = Konversi Sekaligus
+6 = Membuat WBC (segera)
+7 = Tentang
+
+8 = File yang mau anda buka tidak dikenal atau rusak.\r\n\nFile : %s
+9 = Error : Jenis file tidak dikenal
+
+10 = Buka file Webshots
+
+13 = File yang anda mau buka tidak ada !\r\n\nFile : %s
+14 = Error : File tidak ditemukan
+
+15 = Pilihan
+16 = Pilih Bahasa
+
+18 = Website
+19 = Kontak / Lapor kerusakan
+
+//---------------------------
+// Tentang
+//---------------------------
+11 = Tentang %s
+12 = Greetings :
+17 = Terjemahan dalam bahasa %s : %s
+20 = Versi %s
+
+//---------------------------
+// Konversi sekaligus memilih folder
+//---------------------------
+50 = Pilih folder yang anda mau tambahkan
+51 = (Tidak ada folder yang dipilih)
+52 = Termasuk isi direktori
+53 = &Batal
+54 = &Ok
+
+//---------------------------
+// Konversi sekaligus
+//---------------------------
+100 = Files
+101 = + F&older
+102 = + &File
+103 = - F&ile
+104 = &Bersihkan
+105 = T&anpa duplikat
+
+106 = Pilih semua
+107 = Batalkan seleksi
+108 = Filters
+109 = Buang preview
+110 = Buang dobel (segera)
+111 = Atur (segera)
+112 = Buka
+113 = Buang
+
+114 = Pengaturan
+115 = Folder tujuan
+119 = Jika file sudah ada :
+120 = Lewati
+121 = Tulis ulang
+122 = Ganti nama
+123 = &Ayo Konversi !
+124 = &Berhenti
+
+125 = Anda harus memilih paling tidak satu file untuk dikonversi !
+126 = Anda harus memilih folder tujuan !
+127 = Anda harus memilih folder tujuan yang sudah ada !
+128 = Laporan
+129 = Error !
+
+130 = Cari folder tujuan
+131 = Tambahkan file pada daftar konversi
+
+132 = [Tip 1] Anda dapat drag'n'drop files dan folders disini untuk menambahkan mereka ke dalam daftar    [Tip 2] Klik kanan pada file dari daftar untuk mendapatkan menu pilihan !
+133 = Folder sama dengan aslinya
+
+134 = Taruh file di folder utama
+135 = Ciptakan sebuah folder untuk setiap koleksi (WBC)
+136 = Susun file berdasarkan kategori aslinya
+
+137 = Tetap memakai nama asli file
+138 = Beri file nama dari gambar
+139 = Beri file ID dari gambar
+
+140 = [Pengaturan]
+
+//---------------------------
+// Laporan Konversi
+//---------------------------
+150 = Konversi sedang berlangsung ...
+151 = User memutuskan berhenti !
+152 = Sedang mengkonversi %s ...
+153 = Telah dikonversi di [%s]
+154 = Lewati : [%s] sudah ada
+155 = Gagal : File salah atau rusak !
+156 = Konversi selesai !
+157 = %d file discan, berisi %d gambar.
+158 = %d gambar dikonversi, yang mana %d diganti nama, %d dilewati.
+159 = Selesai
+160 =   --> [%s] Dikonversi di [%s]
+161 =   --> [%s] Dilewati : [%s] sudah ada
+
+//---------------------------
+// WB* Viewer
+//---------------------------
+200 = Lihat
+201 = Lihat : %s
+202 = > Informasi tambahan :
+203 =  - Judul : %s
+204 =  - Keterangan : %s
+205 =  - Kredit : %s
+206 =  - ID : %s
+207 =  - Ukuran : %dx%d
+208 =  - Kategori :
+
+209 = Simpan gambar
+210 = Pas di jendela tampilan
+211 = Ukuran sebenarnya
+212 = Simpan semua gambar
+
+213 = File ini rusak atau tidak mengandung gambar apapun !
+214 = Error : File rusak
+
+215 = Daftar gambar
+216 = Gambar n° %d
+217 = Mengekstrak ...
+218 = Loading ...
+219 = Merubah ukuran ...
+220 = Menampilkan ...
+
+221 = Cari folder untuk menyimpan semua gambar dari koleksi
+222 = Menyimpan : %s ...
+
+//---------------------------
+// Formats
+//---------------------------
+250 = Koleksi Webshots 
+251 = Arsip Webshots 
+252 = Gambar Webshots 
+
+253 = Gambar JPEG 
+254 = Semua file Webshots
+255 = Koleksi
+256 = Gambar
+257 = Arsip
+
+//---------------------------
+// Pilihan bahasa
+//---------------------------
+300 = Pilihan bahasa
+301 = Bahasa :
+302 = Versi : %s
+303 = Penterjemah: %s
+304 = Tanggal : %s
+305 = &Ok
+306 = Nomor versi dari file bahasa (%s) membedakan nomor versi UWC (%s). Sebagian teks mungkin ditampilkan dengan tidak tepat.
+
+//---------------------------
+// Editor sementara
+//---------------------------
+350 = Editor ekspresi
+351 = Ekspresi :
+352 = Variabel
+353 = Keterangan
+
+354 = > %pic.title\n\nJudul gambar
+355 = > %pic.id\n\nID gambar
+356 = > %pic.desc\n\nKeterangan gambar
+357 = > %pic.credit\n\nKredit gambar
+358 = > %pic.cat.root\n\nKategori utama gambar
+359 = > %pic.cat.child\n\nKategori tambahan gambar
+360 = > %col.title\n\nJudul koleksi (hanya WBC)
+361 = > %col.filename\n\nNama file koleksi (hanya WBC)
+362 = > %file.name\n\nNama file gambar (jika gambar adalah bagian dari koleksi, ia adalah nama asli dari gambar)
+363 = > %file.path\n\nFolder yang berisi gambar (or the collection)
+364 = > %dest.path\n\nPath selected in the "Batch Conversion" window.\n\n/!\   Always ends with a "\"   /!\
+
+365 = Karakter | mengijinkan untuk mendefinisikan ekspresi alternatif: jika, pada ekspresi alternatif pertama, paling tidak satu variabel atau sub-ekspresi tidak didefinisikan (= kosong), UWC akan mengevaluasi ekspresi alternatif kedua ,dan seterusnya. Sebuah ekspresi di antara parenthesis adalah sebuah sub-ekspresi, peraturan yang sama dengan pada ekspresi akan diberlakukan.\n\nContoh:\n\nabc \%a|tes \%b|def (123 \%c|456 \%d)\n\nJika \%a didefinisikan, ia akan kembali sebagai 'abc \%a'\nIf \%a tidak didefinisikan dan %b adalah, akan kembali sebagai 'tes \%b'\nJika \%a dan \%b tidak didefinisikan dan\n  - \%c didefinisikan : akan kembali sebagai 'def 123 \%c'\n  - \%d didefinisikan : akan kembali sebagai 'def 456 \%d'
+
+366 = Bantuan

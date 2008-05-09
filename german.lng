@@ -1,0 +1,205 @@
+//---------------------------
+// Ultimate Webshots Converter language file
+//---------------------------
+// If you want to translate UWC in your own language,
+// simply tranlate this file, change the 4 fields
+// below and save it to a new name.
+//
+// Please be careful to leave at least one space before
+// and after the equals character on each line
+//
+// You can add comments by adding // at the begining of
+// the line. You cannot add a comment at the end of a line.
+//---------------------------
+
+language = Deutsch (German)
+translator = Tom
+version = 1.6
+date = 28/11/2004
+
+//---------------------------
+// Main
+//---------------------------
+1 = Datei
+2 = Öffnen
+3 = Beenden
+4 = Konvertierung
+5 = Batch Konvertierung
+6 = WBC Erstellen (in Kürze)
+7 = Über...
+
+8 = Die Datei ist kein bekanntes Webshots-Format oder beschädigt.\r\n\nFile : %s
+9 = Fahler : Unbekannter Datei-Typ
+
+10 = Öffnen einer Webshots-Datei
+
+13 = Die zu Öffnende Datei existiert nicht !\r\n\nFile : %s
+14 = Fehler : Datei nicht gefunden
+
+15 = Einstellungen
+16 = Sprache wählen
+
+18 = Internetseite
+19 = Kontakt / Fehler Report
+
+//---------------------------
+// About dialog
+//---------------------------
+11 = Über %s
+12 = Grüße :
+17 = Übersetzung in %s : %s
+20 = Version %s
+
+//---------------------------
+// Batch conversion Browse for Folder
+//---------------------------
+50 = Nach Verzeichnis zum Hinzufügen suchen
+51 = (Kein Verzeichnis ausgewählt)
+52 = Unterverzeichnisse einschließen
+53 = &Abbrechen
+54 = &Ok
+
+//---------------------------
+// Batch conversion
+//---------------------------
+100 = Dateien
+101 = + &Verz.
+102 = + &Datei
+103 = - D&atei
+104 = &Löschen
+105 = D&oppelte ausschließen
+
+106 = Alle auswählen
+107 = Auswahl umdrehen
+108 = Filtern
+109 = Vorschau entfernen
+110 = Doppelte entfernen (in Kürze)
+111 = Benutzerdefiniert (in Kürze)
+112 = Öffnen
+113 = Entfernen
+
+114 = Einstellungen
+115 = Zielverzeichnis
+119 = Wenn eine Datei bereits existiert :
+120 = Überspringen
+121 = Überschreiben
+122 = Umbenennen
+123 = &Konvertieren !
+124 = &Anhalten
+
+125 = Es muß mindestens eine Datei zum konvertieren ausgewählt werden !
+126 = Es muß ein Zielverzeichnis ausgewählt werden !
+127 = Das Zielverzeichnis muß existieren  !
+128 = Log
+129 = Fehler !
+
+130 = Nach Zielverzeichnis durchsuchen
+131 = Datei zur Liste hinzufügen
+
+132 = [Tip 1] Dateien können per Drag && Drop zur Liste hinzugefügt werden   [Tip 2] Mit rechtem Mausklick auf eine Datei wird ein Optionsmenü geöffnet !
+133 = Selbes Verzeichnis wie Original
+
+134 = Dateien im Zielverzeichnis ablegen
+135 = Einen Ordner für jede Collection erstellen (WBC)
+136 = Dateien nach ihren Kategorien sortieren
+
+137 = Original-Dateinamen beibehalten
+138 = Dateien nach Bildnamen benennen
+139 = Dateien nach Bild-ID benennen
+
+140 = [Benutzerdefiniert]
+
+//---------------------------
+// Conversion Log
+//---------------------------
+150 = Conversion is starting ...
+151 = User decided stop !
+152 = Converting %s ...
+153 = Converted in [%s]
+154 = Skipped : [%s] already exists
+155 = Failed : Invalid or corrupted file !
+156 = Conversion completed !
+157 = %d scanned files, containing %d images.
+158 = %d converted pictures, of which %d renamed, %d skipped.
+159 = Finished
+160 =   --> [%s] converted in [%s]
+161 =   --> [%s] skipped : [%s] already exists
+
+//---------------------------
+// WB* Viewer
+//---------------------------
+200 = Vorschau
+201 = Vorschau : %s
+202 = > Zusätzliche Informationen :
+203 =  - Titel : %s
+204 =  - Beschreibung : %s
+205 =  - Autor : %s
+206 =  - ID : %s
+207 =  - Größe : %dx%d
+208 =  - Kategorie :
+
+209 = Bild speichern
+210 = An Fenster anpassen
+211 = Echte Größe
+212 = Alle Bilder speichern
+
+213 = Die Datei ist beschädigt oder enthält kein Bild !
+214 = Fehler : Beschädigte Datei
+
+215 = Bilderliste
+216 = Bild n° %d
+217 = Extrahieren ...
+218 = Laden ...
+219 = Göße anpassen ...
+220 = Anzeigen ...
+
+221 = Nach Verzeichnis suchen um alle Bilder der Collection zu speichern
+222 = Speichern : %s ...
+
+//---------------------------
+// Formats
+//---------------------------
+250 = Webshots Collection
+251 = Webshots Archiv
+252 = Webshots Bild
+
+253 = JPEG Bild
+254 = Alle Webshots Dateien
+255 = Collections
+256 = Bilder
+257 = Archive
+
+//---------------------------
+// Language choice
+//---------------------------
+300 = Sprachauswahl
+301 = Sprache :
+302 = Version : %s
+303 = Übersetzer : %s
+304 = Datum : %s
+305 = &Ok
+306 = Die Versionsnummer der Sprach-Datei (%s) unterscheidet sich von der UWC Versionsnummer (%s). Einige Texte könnten nicht richtig angezeigt werden.
+
+//---------------------------
+// Template editor
+//---------------------------
+350 = Ausdrucks-Editor
+351 = Ausdruck :
+352 = Variablen
+353 = Beschreibung
+
+354 = > %pic.title\n\nBild-Titel
+355 = > %pic.id\n\nBild-ID
+356 = > %pic.desc\n\nBild-Beschreibung
+357 = > %pic.credit\n\nBild-Autor
+358 = > %pic.cat.root\n\nBild-Stamm-Kategorie
+359 = > %pic.cat.child\n\nBild-Unter-Kategorie
+360 = > %col.title\n\nCollection Titel (nur WBC)
+361 = > %col.filename\n\nCollection Dateiname (nur WBC)
+362 = > %file.name\n\nBild Dateiname (wenn das Bild Teil einer Collection ist der Original-Dateiname des Bildes)
+363 = > %file.path\n\nVerzeichnispfad des Bildes (oder der Collection)
+364 = > %dest.path\n\nVerzeichnispfad im "Batch Konvertierung" Fenster.\n\n/!\   Immer mit "\" abgeschlossen   /!\
+
+365 = Das Zeichen | erlaubt alternative Ausdrücke : Wenn in dem ersten alternativen Ausdruck oder Unter-Ausdruck, mindestens eine Variable nicht gesetzt ist (= leer ist), dann verarbeitet UWC den zweiten alternativen Ausdruck, usw. Ein Ausdruck in Klammern ist ein Unter-Ausdruck, nach denselben Regeln wie normale Ausdrücke erstellt.\n\nBeispiel:\n\nabc \%a|test \%b|def (123 \%c|456 \%d)\n\nWenn \%a gesetzt ist, wird 'abc \%a' ausgegeben\nWenn \%a nicht gesetzt ist und %b gesetzt ist, dann wird 'test \%b' ausgegeben\nWenn \%a und \%b nicht gesetzt sind und\n  - \%c gesetzt ist, dann wird 'def 123 \%c' ausgegeben\n  - Wenn \%d gesetzt ist, dann wird 'def 456 \%d' ausgegeben
+
+366 = Hilfe

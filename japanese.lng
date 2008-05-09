@@ -1,0 +1,205 @@
+//---------------------------
+// Ultimate Webshots Converter language file
+//---------------------------
+// If you want to translate UWC in your own language,
+// simply tranlate this file, change the 4 fields
+// below and save it to a new name.
+//
+// Please be careful to leave at least one space before
+// and after the equals character on each line
+//
+// You can add comments by adding // at the begining of
+// the line. You cannot add a comment at the end of a line.
+//---------------------------
+
+language = Japanese
+translator = Anonymous
+version = 1.6
+date = 31/12/2006
+
+//---------------------------
+// Main
+//---------------------------
+1 = ファイル
+2 = 開く
+3 = 閉じる
+4 = 変換
+5 = 一括変換
+6 = WBCｺﾚｸｼｮﾝ作成(未実装)
+7 = UWCについて
+
+8 = The file you are trying to open is not of a known Webshots type or is corrupted.\r\n\nFile : %s
+9 = Error : 認識できないファイル形式です
+
+10 = Webshotsファイルを開く
+
+13 = 開こうとしているファイルは存在しません！\r\n\nFile : %s
+14 = Error : ファイルが見つかりません
+
+15 = オプション
+16 = Choose language
+
+18 = Webサイト
+19 = 連絡先/バグ報告
+
+//---------------------------
+// About dialog
+//---------------------------
+11 = About %s
+12 = Greetings :
+17 = %s 翻訳担当: %s
+20 = Version %s
+
+//---------------------------
+// Batch conversion Browse for Folder
+//---------------------------
+50 = 追加したいフォルダの選択
+51 = (フォルダが選択されていません)
+52 = サブフォルダの検索
+53 = キャンセル(&C)
+54 = &OK
+
+//---------------------------
+// Batch conversion
+//---------------------------
+100 = ファイル
+101 = +ﾌｫﾙﾀﾞ(&O)
+102 = +ﾌｧｲﾙ(&F)
+103 = -ﾌｧｲﾙ(&I)
+104 = クリア(&C)
+105 = 重複は無視(&V)
+
+106 = すべて選択
+107 = 選択を反転
+108 = フィルタ
+109 = プレビューは削除
+110 = 重複を削除(未実装)
+111 = カスタム(未実装)
+112 = 開く
+113 = 削除
+
+114 = 設定
+115 = 変換先のフォルダ
+119 = If a file already exists :
+120 = 無視
+121 = 上書き
+122 = 名前を変える
+123 = 変換！(&L)
+124 = 中止(&S)
+
+125 = 変換するには少なくともひとつのファイルを指定してください！
+126 = 変換先のフォルダを指定してください！
+127 = 変換先のフォルダが存在しません！
+128 = ログ
+129 = エラー！
+
+130 = 変換先のフォルダを選択
+131 = 変換リストにファイルを追加
+
+132 = [ヒント1]ここにファイルやフォルダをドラッグ＆ドロップしてリストに追加できます。[ヒント2]リスト上のファイルを右クリックするとオプションメニューが開きます！
+133 = オリジナルと同じフォルダ
+
+134 = 指定したフォルダに置く
+135 = WBCコレクションごとにフォルダを作成する
+136 = オリジナルのカテゴリの順に並び替える
+
+137 = オリジナルと同じファイル名に
+138 = 画像のタイトルをファイル名に
+139 = 画像のIDをファイル名に
+
+140 = [カスタム]
+
+//---------------------------
+// Conversion Log
+//---------------------------
+150 = 変換を開始します...
+151 = User decided stop !
+152 = %s 変換中...
+153 = [%s] に変換完了
+154 = スキップ : [%s] はすでに存在します
+155 = Failed : Invalid or corrupted file !
+156 = 変換が完了しました！
+157 = スキャンした %d 個のファイルに %d 個の画像が含まれていました。
+158 = %d 個のファイルが変換されました。%d 個は名前が変更され，%d 個は無視されました。
+159 = Finished
+160 =   --> [%s] は [%s] に変換されました
+161 =   --> [%s] はスキップされます : [%s] がすでに存在します
+
+//---------------------------
+// WB* Viewer
+//---------------------------
+200 = プレビュー
+201 = プレビュー: %s
+202 = > 追加情報:
+203 =  - タイトル : %s
+204 =  - 説明 : %s
+205 =  - クレジット : %s
+206 =  - ID : %s
+207 =  - サイズ : %dx%d
+208 =  - カテゴリ :
+
+209 = 名前を付けて保存
+210 = ウィンドウに合わせる
+211 = 実際の大きさで表示
+212 = すべての画像を保存
+
+213 = This file is corrupted or does not contain any picture !
+214 = Error : Corrupted file
+
+215 = Pictures list
+216 = Picture nｰ %d
+217 = Extracting ...
+218 = Loading ...
+219 = Resizing ...
+220 = Displaying ...
+
+221 = Browse for the folder where to save all the pictures of the collection
+222 = Saving : %s ...
+
+//---------------------------
+// Formats
+//---------------------------
+250 = Webshots Collection
+251 = Webshots Archive
+252 = Webshots Picture
+
+253 = JPEG Picture
+254 = すべてのWebshotsファイル
+255 = コレクション
+256 = 単一画像
+257 = アーカイブ
+
+//---------------------------
+// Language choice
+//---------------------------
+300 = Language choice
+301 = Language :
+302 = Version : %s
+303 = Translator : %s
+304 = Date : %s
+305 = &OK
+306 = The version number of the language file (%s) differs UWC version number (%s). Some texts may not be correctly displayed.
+
+//---------------------------
+// Template editor
+//---------------------------
+350 = Expression editor
+351 = Expression :
+352 = 変数
+353 = 説明
+
+354 = > %pic.title\n\nPicture title
+355 = > %pic.id\n\nPicture ID
+356 = > %pic.desc\n\nPicture description
+357 = > %pic.credit\n\nPicture credits
+358 = > %pic.cat.root\n\nPicture root category
+359 = > %pic.cat.child\n\nPicture child category
+360 = > %col.title\n\nCollection title (WBC only)
+361 = > %col.filename\n\nCollection file name (WBC only)
+362 = > %file.name\n\nPicture file name (if the picture is a part of a collection, it is the original file name of the picture)
+363 = > %file.path\n\nPath to the folder which contains the picture (or the collection)
+364 = > %dest.path\n\nPath selected in the "Batch Conversion" window.\n\n/!\   Always ends with a "\"   /!\
+
+365 = The character | allows to define alternative expressions : if, in the first alternative expression, at least one variable or sub-expression is not defined (= is empty), UWC will evaluate the second alternative expression, and so on. An expression between parenthesis is a sub-expression, the same rules as in the expressions are applied.\n\nExample:\n\nabc \%a|test \%b|def (123 \%c|456 \%d)\n\nIf \%a is defined, it will return 'abc \%a'\nIf \%a is not defined and %b is, it will return 'test \%b'\nIf \%a and \%b are not defined and\n  - \%c is defined : it will return 'def 123 \%c'\n  - \%d is defined : it will return 'def 456 \%d'
+
+366 = ヘルプ

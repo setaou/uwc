@@ -1,0 +1,205 @@
+//---------------------------
+// Ultimate Webshots Converter language file
+//---------------------------
+// If you want to translate UWC in your own language,
+// simply tranlate this file, change the 4 fields
+// below and save it to a new name.
+//
+// Please be careful to leave at least one space before
+// and after the equals character on each line
+//
+// You can add comments by adding // at the begining of
+// the line. You cannot add a comment at the end of a line.
+//---------------------------
+
+language = Türkçe (Turkish)
+translator = Seladata
+version = 1.6
+date = 23/03/2005
+
+//---------------------------
+// Main
+//---------------------------
+1 = Dosya
+2 = Aç
+3 = Çýkýþ
+4 = Dönüþtür
+5 = Yýðýn Dönüþtür
+6 = WBC Yaratma (yakýnda)
+7 = Hakkýnda
+
+8 = Açmaya çalýþtýðýnýz dosya bir Webshots dosyasý deðil veya bozuk.\r\n\nDosya : %s
+9 = Hata : Bilinmeyen Dosya türü
+
+10 = Webshots dosyasý aç
+
+13 = Açmaya çalýþtýðýnýz dosya mevcut deðil !\r\n\nFile : %s
+14 = Hata : Dosya bulunamadý
+
+15 = Seçenekler
+16 = Dil seç
+
+18 = Websayfasý
+19 = Ulaþ / Hata rapor et
+
+//---------------------------
+// About dialog
+//---------------------------
+11 = Hakkýnda %s
+12 = Teþekkürler :
+17 = %s çeviri: %s
+20 = Sürüm %s
+
+//---------------------------
+// Batch conversion Browse for Folder
+//---------------------------
+50 = Ekleneçek Klasörü seç
+51 = (Seçilmiþ klasör yok)
+52 = Alt Klasörleride tara
+53 = &Ýptal
+54 = &Tamam
+
+//---------------------------
+// Batch conversion
+//---------------------------
+100 = Dosyalar
+101 = + K&lasör
+102 = + &Dosya
+103 = - D&osya
+104 = &Temizle
+105 = &Çift dosyalarý çýkar
+
+106 = Hepsini seç
+107 = Diðerini seç
+108 = Filitreler
+109 = Ön izlemeleri iptal et
+110 = Çiftleri iptal et (yakýnda)
+111 = Özel (yakýnda)
+112 = Aç
+113 = Çýkar
+
+114 = Ýsim Ayarlarý
+115 = Hedef Klasör
+119 = Dosya mevcut ise :
+120 = Atla
+121 = Üstüne yaz
+122 = Ad deðiþtir
+123 = &Dönüþtür !
+124 = &Dur
+
+125 = Dönüþüm için en az bir dosya seçmelisiniz !
+126 = Bir Hedef Klasör seçmelisiniz !
+127 = Varolan bir Hedef Klasör seçmelisiniz  !
+128 = Günlük
+129 = Hata !
+
+130 = Hedef Klasör için gözat
+131 = Dönüþüm listesine dosya ekle
+
+132 = [Ýpucu 1] Listeye eklemek için buraya Dosya ve Klasör sürükleyebilirsiniz    [Ýpucu 2] Seçeneklerine ulaþmak için bir dosyaya sað týklayýn !
+
+133 = Orijinal klasörle ayný
+
+134 = Dosyalarý klasör kök'üne ekle
+135 = Her bir koleksiyon için klasör yarat (WBC)
+136 = Orijinal katogerilere göre klasör yarat
+
+137 = Orijinal dosya adýný muhafaza et
+138 = Dosyalara resmin adýný ver
+139 = Dosyalara resmin ID sine göre ad ver
+
+140 = [Özel]
+
+//---------------------------
+// Conversion Log
+//---------------------------
+150 = Dönüþüm baþladý ...
+151 = Kullanýcý durdurdu !
+152 = Dönüþüm %s ...
+153 = Dönüþtürülen [%s]
+154 = Atlanan : [%s] zaten mevcut
+155 = Baþarýsýz : Geçersiz veya bozuk dosya !
+156 = Dönüþüm tamamlandý !
+157 = Taranan dosya %d, resim kapsayan %d.
+158 = dönüþtürülen resim %d, yeniden adlandýrýlan%d, atlanan %d.
+159 = Bitirildi
+160 =   --> [%s] ni [%s] dönüþtürüldü
+161 =   --> [%s] atlanan : [%s] zaten mevcut olan
+
+//---------------------------
+// WB* Viewer
+//---------------------------
+200 = Önizleme
+201 = Önizleme : %s
+202 = > Ek bilgiler :
+203 =  - Baþlýk : %s
+204 =  - Açýklama : %s
+205 =  - Krediler : %s
+206 =  - ID : %s
+207 =  - Boyut : %dx%d
+208 =  - Kategori :
+
+209 = Resmi kaydet
+210 = Pencereye hizala
+211 = Gerçek boyut
+212 = Bütün resimleri kaydet
+
+213 = Bu dosya bozuk veya resim dosyasý deðil !
+214 = Hata : Bozuk dosya
+
+215 = Resim listesi
+216 = Resim n° %d
+217 = Ayýklanýyor ...
+218 = Yükleniyor ...
+219 = Boyutlandýrýlýyor ...
+220 = Gösteriliyor ...
+
+221 = Koleksiyondaki kaydedilen resimlerin klasörüne gözat
+222 = Kaydedilen : %s ...
+
+//---------------------------
+// Formats
+//---------------------------
+250 = Webshots Koleksiyon
+251 = Webshots Arþiv
+252 = Webshots Resim
+
+253 = JPEG Resmi
+254 = Bütün Webshots dosyalarý
+255 = Koleksiyonlar
+256 = Resimler
+257 = Arþivler
+
+//---------------------------
+// Language choice
+//---------------------------
+300 = Dil seç
+301 = Dil :
+302 = Sürüm : %s
+303 = Çeviren : %s
+304 = Tarih : %s
+305 = &Tamam
+306 = (%s) sürüm numarasý UWC nin sürüm numarasý olan (%s) den farklý. Bazý metinler düzgün görünmeyebilir.
+//---------------------------
+// Template editor
+//---------------------------
+350 = Expression düzenleyicisi
+351 = Expression :
+352 = Deðiþkenler
+353 = Açýklama
+
+354 = > %pic.title\n\nResim baþlýðý
+355 = > %pic.id\n\nResim ID
+356 = > %pic.desc\n\nResim açýklamasý
+357 = > %pic.credit\n\nResim krediler
+358 = > %pic.cat.root\n\nResim kök kategori
+359 = > %pic.cat.child\n\nResim alt kategori
+360 = > %col.title\n\nKoleksiyon baþlýk (sadece WBC)
+361 = > %col.filename\n\nKoleksiyon dosya adý (WBC only)
+362 = > %file.name\n\nResim adý (resim koleksiyonun bir parçasý ise, resmin orijinal adýdýr)
+363 = > %file.path\n\nResimlerin kapsadýgý klasörün yolu (veya koleksiyonun)
+364 = > %dest.path\n\n"Yýðýn dönüþtürücü'deki seçilen yol.\n\n/!\   Herzaman sonuna "\" ekleyin  /!\
+
+365 = The character | allows to define alternative expressions : if, in the first alternative expression, at least one variable or sub-expression is not defined (= is empty), UWC will evaluate the second alternative expression, and so on. An expression between parenthesis is a sub-expression, the same rules as in the expressions are applied.\n\nExample:\n\nabc \%a|test \%b|def (123 \%c|456 \%d)\n\nIf \%a is defined, it will return 'abc \%a'\nIf \%a is not defined and %b is, it will return 'test \%b'\nIf \%a and \%b are not defined and\n  - \%c is defined : it will return 'def 123 \%c'\n  - \%d is defined : it will return 'def 456 \%d'
+
+366 = Yardým

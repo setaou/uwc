@@ -1,0 +1,209 @@
+//---------------------------
+// Ultimate Webshots Converter language file
+//---------------------------
+// If you want to translate UWC in your own language,
+// simply tranlate this file, change the 4 fields
+// below and save it to a new name.
+//
+// Please be careful to leave at least one space before
+// and after the equals character on each line
+//
+// You can add comments by adding // at the begining of
+// the line. You cannot add a comment at the end of a line.
+//---------------------------
+
+language = Français (French)
+translator = Setaou
+version = 1.6
+date = 30/08/2004
+
+//---------------------------
+// Main
+//---------------------------
+1 = Fichier
+2 = Ouvrir
+3 = Quitter
+4 = Conversion
+5 = Conversion en masse
+6 = Création de WBC (bientôt)
+7 = A Propos
+
+8 = Le fichier que vous tentez d'ouvrir n'est pas d'un type WebShots connu ou est corrompu.\r\n\nFichier : %s
+9 = Erreur : Type de fichier non connu
+
+10 = Ouvrir un fichier WebShots
+
+13 = Le fichier que vous tentez d'ouvrir n'existe pas ! \r\n\nFichier : %s
+14 = Erreur : Fichier inexistant !
+
+15 = Options
+16 = Choisir la langue
+
+18 = Site Web
+19 = Contact / Report de bug
+
+//---------------------------
+// About dialog
+//---------------------------
+11 = A Propos de %s
+12 = Remerciements :
+17 = Traduction en %s : %s
+20 = Version %s
+
+//---------------------------
+// Batch conversion Browse for Folder
+//---------------------------
+50 = Choisissez le dossier à ajouter
+51 = (Pas de dossier sélectionné)
+52 = Parcourir les sous-dossiers
+53 = &Annuler
+54 = &Ok
+
+//---------------------------
+// Batch conversion
+//---------------------------
+100 = Fichiers
+101 = + &Dossier
+102 = + &Fichier
+103 = - F&ichier
+104 = &Effacer
+105 = E&viter les doublons
+
+106 = Tout sélectionner
+107 = Inverser la sélection
+108 = Filtres
+109 = Supprimer les vignettes
+110 = Supprimer les doublons (bientôt)
+111 = Personnalisé (bientôt)
+112 = Ouvrir
+113 = Supprimer
+
+114 = Paramètres
+115 = Dossier de destination
+119 = Si un fichier existe déjà :
+120 = Passer
+121 = Ecraser
+122 = Renommer
+123 = &Convertir !
+124 = A&rrêter
+
+125 = Vous devez choisir au moins un fichier à convertir !
+126 = Vous devez choisir un dossier de destination !
+127 = Vous devez choisir un dossier de destination existant !
+128 = Journal
+129 = Erreur !
+
+130 = Choisissez le dossier de destination
+131 = Ajouter un fichier à la liste de conversion
+
+132 = [Astuce 1] Vous pouvez glisser des fichiers et des dossiers ici afin de les ajouter à la liste    [Astuce 2] Un clic-droit sur un fichier de la liste vous affichera un menu d'options !
+133 = Même dossier que l'original
+
+134 = Placer les fichiers à la racine
+135 = Créer un dossier pour chaque collection (WBC)
+136 = Classer les fichiers selon leur catégorie originale
+
+137 = Conserver les noms de fichier
+138 = Nommer les fichiers avec le titre de l'image
+139 = Nommer les fichiers avec le n° de l'image
+
+140 = [Personnaliser]
+
+//---------------------------
+// Conversion Log
+//---------------------------
+150 = Démarrage de la conversion ...
+151 = Arrêt décidé par l'utilisateur !
+152 = Conversion de %s ...
+153 = Sauvegardé dans [%s]
+154 = Passée : [%s] existe déjà
+155 = Echouée : Fichier invalide ou vide !
+156 = Conversion terminée !
+157 = %d fichiers parcourus, contenant %d images.
+158 = %d images sauvegardées dont %d renommées, %d ignorées.
+159 = Terminée
+160 =   --> [%s] sauvegardé dans [%s]
+161 =   --> [%s] passé : [%s] existe déjà
+
+//---------------------------
+// WB* Viewer
+//---------------------------
+200 = Aperçu
+201 = Aperçu : %s
+202 = > Informations supplémentaires :
+203 =  - Titre : %s
+204 =  - Description : %s
+205 =  - Credits : %s
+206 =  - ID : %s
+207 =  - Dimensions : %dx%d
+208 =  - Catégorie :
+
+209 = Sauvegarder l'image
+210 = Ajuster à la fenêtre
+211 = Taille réelle
+212 = Sauvegarder toutes les images
+
+213 = Ce fichier n'est pas valide ou ne contient aucune image!
+214 = Erreur : Fichier incorrect
+
+215 = Liste des images
+216 = Image n° %d
+217 = Extraction ...
+218 = Chargement ...
+219 = Redimentionnement ...
+220 = Affichage ...
+
+221 = Choisissez l'emplacement où sauvegarder l'intégralité des images de la collection.
+222 = Sauvegarde : %s ...
+
+223 =  - Date de publication : %s
+
+//---------------------------
+// Formats
+//---------------------------
+250 = Collection Webshots
+251 = Archive Webshots
+252 = Image Webshots
+
+253 = Images JPEG
+254 = Tous les fichiers WebShots
+255 = Collections
+256 = Images
+257 = Archives
+
+//---------------------------
+// Language choice
+//---------------------------
+300 = Choix de la langue
+301 = Langue :
+302 = Version : %s
+303 = Traducteur : %s
+304 = Date : %s
+305 = &Ok
+306 = La version du fichier de langue (%s) est différente de la version de UWC (%s). Certains textes ne seront peut-être pas affichés correctement.
+
+//---------------------------
+// Template editor
+//---------------------------
+350 = Editeur d'expression
+351 = Expression :
+352 = Variables
+353 = Description
+
+354 = > %pic.title\n\nTitre de l'image
+355 = > %pic.id\n\nN° de l'image
+356 = > %pic.desc\n\nDescription de l'image
+357 = > %pic.credit\n\nCredits de l'image
+358 = > %pic.cat.root\n\nCatégorie principale de l'image
+359 = > %pic.cat.child\n\nSous-catégorie de l'image
+360 = > %col.title\n\nTitre de la collection (WBC seulement)
+361 = > %col.filename\n\nNom de fichier de la collection (WBC seulement)
+362 = > %file.name\n\nNom de fichier de l'image (pour une image venant d'une collection, représente le nom de fichier original de l'image)
+363 = > %file.path\n\nChemin du fichier de l'image (ou de la collection, si l'image fait partie d'une collection)
+364 = > %dest.path\n\nChemin choisi dans la case "Destination" de la fenêtre de conversion de masse.\n\n/!\   Finit toujours par un "\"   /!\
+
+365 = Le charactère | permet de définir des expressions alternatives : si, dans la première expression alternative, au moins une variable ou une sous-expression n'est pas définie, UWC évaluera la seconde expression alternative, et ainsi de suite. Une expression entre parenthèse est une sous-expression, il s'y applique les mêmes règles que pour les expressions.\n\nExemple:\n\nabc \%a|test \%b|def (123 \%c|456 \%d)\n\nSi \%a est défini, donnera 'abc \%a'\nSi \%a n'est pas défini et \%b l'est, donnera 'test \%b'\nSi \%a et \%b ne sont pas définis et\n  - \%c est défini : donnera 'def 123 \%c'\n  - \%d est défini : donnera 'def 456 \%d'
+
+366 = Aide
+
+367 = > %pic.dailydate\n\nDate de publication de l'image

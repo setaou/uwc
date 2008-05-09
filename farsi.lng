@@ -1,0 +1,205 @@
+//---------------------------
+// Ultimate Webshots Converter language file
+//---------------------------
+// If you want to translate UWC in your own language,
+// simply tranlate this file, change the 4 fields
+// below and save it to a new name.
+//
+// Please be careful to leave at least one space before
+// and after the equals character on each line
+//
+// You can add comments by adding // at the begining of
+// the line. You cannot add a comment at the end of a line.
+//---------------------------
+
+language = ›«—”Ì (Farsi)
+translator = ÕÃ  ⁄«»œÌ
+version = 1.6
+date = 31/01/2006
+
+//---------------------------
+// Main
+//---------------------------
+1 = ›«Ì·
+2 = »«“ ò—œ‰
+3 = Œ—ÊÃ
+4 =  »œÌ·
+5 =  »œÌ· œ” Â «Ì
+6 = (»“ÊœÌ) WBC «ÌÃ«œ
+7 = ...œ—»«—Â
+
+8 =.›«»· «‰ Œ«»Ì ‘„« Ã“Ê ›«Ì·Â«Ì òÂ Å‘ Ì»«‰Ì „Ì‘Ê‰œ ‰Ì” \r\n\nFile : %s
+9 = Œÿ«: ‰Ê⁄ ›«Ì· ‰«‘‰«Œ Â «” 
+
+10 = Webshots »«“ ò—œ‰ ›«Ì·
+
+13 = !›«Ì·Ì òÂ ‘„« „ÌŒÊ«ÂÌœ »«“ ò‰Ìœ ÊÃÊœ ‰œ«—œ\r\n\nFile : %s
+14 = Œÿ«: ›«Ì· ÅÌœ« «” 
+
+15 = ê“Ì‰Â Â«
+16 = «‰ Œ«» “»«‰
+
+18 = Ê» ”«Ì 
+19 =  „«”/ê“«—‘ Œÿ«
+
+//---------------------------
+// About dialog
+//---------------------------
+11 = ...œ—»«—Â %s
+12 = :»«  ‘ò— «“
+17 =  —Ã„Â »Â %s: %s
+20 = ‰”ŒÂ %s
+
+//---------------------------
+// Batch conversion Browse for Folder
+//---------------------------
+50 = Ã” ÃÊ »—«Ì ÅÊ‘Â «Ì òÂ „ÌŒÊ«ÂÌœ «÷«›Â ò‰Ìœ
+51 = (ÅÊ‘Â «Ì «‰ Œ«» ‰‘œÂ «” )
+52 = Recurse directories
+53 = &Cancel
+54 = &Ok
+
+//---------------------------
+// Batch conversion
+//---------------------------
+100 = ›«Ì·
+101 = + (&O) ‘«ŒÂ
+102 = + (&F) ›«Ì·
+103 = - (&I) ›«Ì·
+104 = (&C) Õ–›
+105 = (&V) Õ–› ›«Ì·Â«Ì œÊ «ÌÌ
+
+106 = «‰ Œ«» Â„Â
+107 = „⁄òÊ” ò—œ‰ «‰ Œ«»
+108 = ›Ì· —
+109 = Å«ò ò—œ‰ ÅÌ‘ ‰„«Ì‘
+110 = Å«ò ò—œ‰ œÊ «ÌÌ Â«  (»“ÊœÌ)Û
+111 = ”›«—‘Ì ò—œ‰ (»“ÊœÌ)Û
+112 = »«“ ò—œ‰
+113 = Å«ò ò—œ‰
+
+114 =  ‰ŸÌ„« 
+115 = ¬œ—” „ﬁ’œ
+119 = :œ— ’Ê— Ì ‰«„ ›«Ì· „ÊÃÊœ »Êœ
+120 = «“ ﬁ·„ «‰œ«Œ ‰
+121 = œÊ»«—Â ‰Ê‘ ‰
+122 =  €ÌÌ— ‰«„
+123 = (&L) ‘—Ê⁄  »œÌ·
+124 = &Stop
+
+125 = !‘„« »«Ìœ Õœ«ﬁ· Ìò ›«Ì· —« »—«Ì  €ÌÌ— «‰ Œ«» ò‰Ìœ
+126 = !‘„« »«Ìœ ¬œ—” „ﬁ’œ —« „‘Œ’ ò‰Ìœ
+127 = !‘„« »«Ìœ ÅÊ‘Â «Ì —« «‰ Œ«» ò‰Ìœ òÂ ÊÃÊœ œ«‘ Â »«‘œ
+128 = —ÊÌœ«œ
+129 = !Œÿ«
+
+130 = Ã” ÃÊ »—«Ì ÅÊ‘Â „ﬁ’œ
+131 = «÷«›Â ò—œ‰ ›«Ì· »Â ·Ì”   »œÌ·
+
+132 = .‘„« „Ì Ê«‰Ìœ ›«Ì·Â«Ì „Ê—œ ‰Ÿ— «‰ —«ò‘ÌœÂ Ê œ— «Ì‰ Å‰Ã—Â —Â« ò‰Ìœ
+133 = œ— ‘«ŒÂ «’·Ì –ŒÌ—Â ‘Êœ
+
+134 = ›«Ì·Â« —« œ— ‘«ŒÂ  ⁄ÌÌ‰ ‘œÂ ﬁ—«— œÂÌœ
+135 = (WBC) »—«Ì Â— „Ã„Ê⁄Â ‘«ŒÂ «Ì «ÌÃ«œ ‘Êœ
+136 =  ‰ŸÌ„ ›«Ì·Â« »— ÿ»ﬁ ‰«„ «’·Ì œ” Â Â«Ì‘«‰
+
+137 = Õ›Ÿ «”„ «’·Ì ›«Ì·
+138 = «”„ ›«Ì· „ÿ«»ﬁ «”„  ’ÊÌ—
+139 = «”„ ›«Ì· „ÿ«»ﬁ ‘„«—Â  ’ÊÌ—
+
+140 = [ ‰ŸÌ„«  ”›«—‘Ì]
+
+//---------------------------
+// Conversion Log
+//---------------------------
+150 = ....¬€«“  »œÌ·
+151 = !ò«—»—  »œÌ· ò—œ‰ —« ‰êÂœ«‘ 
+152 = ¬€«“  »œÌ· %s ...
+153 = –ŒÌ—Â ‘œÂ œ— [%s]
+154 =ÊÃœ œ«‘  [%s] «“ ﬁ·„ «‰œ«Œ ‰
+155 = ‰«„Ê›ﬁ: ‰«„⁄ »— Ì« Œ—«» «” 
+156 = ! »œÌ·  „«„ ‘œ
+157 = %d›«Ì· „—Ê— ‘œÂ Õ«ÊÌ %d  ’ÊÌ—
+158 = %d «“ ﬁ·„ «‰œ«Œ ‰ %d,  €ÌÌ— ‰«„ %d,  »œÌ·  ’«ÊÌ—
+159 = Finished
+160 =   --> [%s]  »œÌ· œ— [%s]
+161 =   --> [%s] :«“ ﬁ·„ «‰œ«Œ ‰ [%s] ÊÃÊœ œ«‘ 
+
+//---------------------------
+// WB* Viewer
+//---------------------------
+200 = ÅÌ‘ ‰„«Ì‘
+201 = <:‰„«:>%s
+202 = .:«ÿ·«⁄«  «÷«›Ì:.
+203 =  - ⁄‰Ê«‰: %s
+204 =  - ‘—Õ: %s
+205 =  - ”«“‰œÂ: %s
+206 =  - ‘„«—Â: %s
+207 =  - %dx%d :«‰œ«“Â
+208 =  - œ” Â:
+
+209 = –ŒÌ—Â ⁄ò”
+210 = «‰œ«“Â Å‰Ã—Â
+211 = «‰œ«“Â Ê«ﬁ⁄Ì
+212 = –ŒÌ—Â  „«„ ⁄ò”Â«
+
+213 = «Ì‰ ›«Ì· Œ—«» «”  Ì« ÂÌçêÊ‰Â ⁄ò”Ì ‰œ«—œ
+214 = Œÿ«: ›«Ì· Œ—«» «” 
+
+215 = ·Ì”  ⁄ò”Â«
+216 = Picture n∞ %d
+217 = ...œ— Õ«· Œ«—Ã ò—œ‰
+218 = ...»«—ê–«—Ì
+219 = ...œ— Õ«·  €ÌÌ— «‰œ«“Â
+220 = ...œ— Õ«· ‰„«Ì‘
+
+221 = Ã” ÃÊ »—«Ì ÅÊ‘Â „Õ· –ŒÌ—Â ⁄ò”Â«
+222 = :–ŒÌ—Â %s ...
+
+//---------------------------
+// Formats
+//---------------------------
+250 = Webshots „Ã„Ê⁄Â
+251 = Webshots ¬—‘ÌÊ
+252 = Webshots ⁄ò”
+
+253 = JPEG ⁄ò”
+254 = Webshots Â„Â ›«Ì· Â«Ì
+255 = „Ã„Ê⁄Â
+256 = ⁄ò”Â«
+257 = ¬—‘ÌÊ
+
+//---------------------------
+// Language choice
+//---------------------------
+300 = «‰ Œ«» “»«‰
+301 = “»«‰ :
+302 = ‰”ŒÂ : %s
+303 = „ —Ã„ : %s
+304 =  «—ÌŒ : %s
+305 = &Ok
+306 = The version number of the language file (%s) differs UWC version number (%s). Some texts may not be correctly displayed.
+
+//---------------------------
+// Template editor
+//---------------------------
+350 = ÊÌ—«Ì‘ê— ⁄»«—« 
+351 = :⁄»«— 
+352 = „ €Ì—
+353 =  ⁄—Ì›
+
+354 = > %pic.title\n\nPicture title
+355 = > %pic.id\n\nPicture ID
+356 = > %pic.desc\n\nPicture description
+357 = > %pic.credit\n\nPicture credits
+358 = > %pic.cat.root\n\nPicture root category
+359 = > %pic.cat.child\n\nPicture child category
+360 = > %col.title\n\nCollection title (WBC only)
+361 = > %col.filename\n\nCollection file name (WBC only)
+362 = > %file.name\n\nPicture file name (if the picture is a part of a collection, it is the original file name of the picture)
+363 = > %file.path\n\nPath to the folder which contains the picture (or the collection)
+364 = > %dest.path\n\nPath selected in the "Batch Conversion" window.\n\n/!\   Always ends with a "\"   /!\
+
+365 = The character | allows to define alternative expressions : if, in the first alternative expression, at least one variable or sub-expression is not defined (= is empty), UWC will evaluate the second alternative expression, and so on. An expression between parenthesis is a sub-expression, the same rules as in the expressions are applied.\n\nExample:\n\nabc \%a|test \%b|def (123 \%c|456 \%d)\n\nIf \%a is defined, it will return 'abc \%a'\nIf \%a is not defined and %b is, it will return 'test \%b'\nIf \%a and \%b are not defined and\n  - \%c is defined : it will return 'def 123 \%c'\n  - \%d is defined : it will return 'def 456 \%d'
+
+366 = ò„ò

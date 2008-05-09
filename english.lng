@@ -1,0 +1,209 @@
+//---------------------------
+// Ultimate Webshots Converter language file
+//---------------------------
+// If you want to translate UWC in your own language,
+// simply tranlate this file, change the 4 fields
+// below and save it to a new name.
+//
+// Please be careful to leave at least one space before
+// and after the equals character on each line
+//
+// You can add comments by adding // at the begining of
+// the line. You cannot add a comment at the end of a line.
+//---------------------------
+
+language = English
+translator = Setaou
+version = 1.6
+date = 18/09/2004
+
+//---------------------------
+// Main
+//---------------------------
+1 = File
+2 = Open
+3 = Exit
+4 = Conversion
+5 = Batch Conversion
+6 = WBC Creation (soon)
+7 = About
+
+8 = The file you are trying to open is not of a known Webshots type or is corrupted.\r\n\nFile : %s
+9 = Error : Unknown file type
+
+10 = Open a Webshots file
+
+13 = The file you are trying to open does not exists !\r\n\nFile : %s
+14 = Error : File not found
+
+15 = Options
+16 = Choose language
+
+18 = Website
+19 = Contact / Bug Report
+
+//---------------------------
+// About dialog
+//---------------------------
+11 = About %s
+12 = Greetings :
+17 = Translation in %s : %s
+20 = Version %s
+
+//---------------------------
+// Batch conversion Browse for Folder
+//---------------------------
+50 = Browse for the folder you wish to add
+51 = (No selected folder)
+52 = Recurse directories
+53 = &Cancel
+54 = &Ok
+
+//---------------------------
+// Batch conversion
+//---------------------------
+100 = Files
+101 = + F&older
+102 = + &File
+103 = - F&ile
+104 = &Clear
+105 = A&void doubles
+
+106 = Select all
+107 = Invert selection
+108 = Filters
+109 = Remove previews
+110 = Remove doubles (soon)
+111 = Custom (soon)
+112 = Open
+113 = Remove
+
+114 = Settings
+115 = Destination folder
+119 = If a file already exists :
+120 = Skip
+121 = Overwrite
+122 = Rename
+123 = &Let's convert !
+124 = &Stop
+
+125 = You must choose at least one file to convert !
+126 = You must choose a destination folder !
+127 = You must choose an existing destination folder  !
+128 = Log
+129 = Error !
+
+130 = Browse for the destination folder
+131 = Add a file to the conversion list
+
+132 = [Tip 1] You can drag'n'drop files and folders here in order to add them to the list    [Tip 2] Right click on a file of the list to get an option menu !
+133 = Same folder as the original
+
+134 = Put the files in the root of the folder
+135 = Create a folder for each collection (WBC)
+136 = Sort files in accordance with their original categories
+
+137 = Keep original filename
+138 = Give the files the name of the picture
+139 = Give the files the ID of the picture
+
+140 = [Customize]
+
+//---------------------------
+// Conversion Log
+//---------------------------
+150 = Conversion is starting ...
+151 = User decided stop !
+152 = Converting %s ...
+153 = Converted in [%s]
+154 = Skipped : [%s] already exists
+155 = Failed : Invalid or corrupted file !
+156 = Conversion completed !
+157 = %d scanned files, containing %d images.
+158 = %d converted pictures, of which %d renamed, %d skipped.
+159 = Finished
+160 =   --> [%s] converted in [%s]
+161 =   --> [%s] skipped : [%s] already exists
+
+//---------------------------
+// WB* Viewer
+//---------------------------
+200 = Preview
+201 = Preview : %s
+202 = > Additional informations :
+203 =  - Title : %s
+204 =  - Description : %s
+205 =  - Credits : %s
+206 =  - ID : %s
+207 =  - Size : %dx%d
+208 =  - Category :
+
+209 = Save picture
+210 = Fit to window
+211 = Real size
+212 = Save all pictures
+
+213 = This file is corrupted or does not contain any picture !
+214 = Error : Corrupted file
+
+215 = Pictures list
+216 = Picture n° %d
+217 = Extracting ...
+218 = Loading ...
+219 = Resizing ...
+220 = Displaying ...
+
+221 = Browse for the folder where to save all the pictures of the collection
+222 = Saving : %s ...
+
+223 =  - Daily Date : %s
+
+//---------------------------
+// Formats
+//---------------------------
+250 = Webshots Collection
+251 = Webshots Archive
+252 = Webshots Picture
+
+253 = JPEG Picture
+254 = All Webshots files
+255 = Collections
+256 = Pictures
+257 = Archives
+
+//---------------------------
+// Language choice
+//---------------------------
+300 = Language choice
+301 = Language :
+302 = Version : %s
+303 = Translator : %s
+304 = Date : %s
+305 = &Ok
+306 = The version number of the language file (%s) differs UWC version number (%s). Some texts may not be correctly displayed.
+
+//---------------------------
+// Template editor
+//---------------------------
+350 = Expression editor
+351 = Expression :
+352 = Variables
+353 = Description
+
+354 = > %pic.title\n\nPicture title
+355 = > %pic.id\n\nPicture ID
+356 = > %pic.desc\n\nPicture description
+357 = > %pic.credit\n\nPicture credits
+358 = > %pic.cat.root\n\nPicture root category
+359 = > %pic.cat.child\n\nPicture child category
+360 = > %col.title\n\nCollection title (WBC only)
+361 = > %col.filename\n\nCollection file name (WBC only)
+362 = > %file.name\n\nPicture file name (if the picture is a part of a collection, it is the original file name of the picture)
+363 = > %file.path\n\nPath to the folder which contains the picture (or the collection)
+364 = > %dest.path\n\nPath selected in the "Batch Conversion" window.\n\n/!\   Always ends with a "\"   /!\
+
+365 = The character | allows to define alternative expressions : if, in the first alternative expression, at least one variable or sub-expression is not defined (= is empty), UWC will evaluate the second alternative expression, and so on. An expression between parenthesis is a sub-expression, the same rules as in the expressions are applied.\n\nExample:\n\nabc \%a|test \%b|def (123 \%c|456 \%d)\n\nIf \%a is defined, it will return 'abc \%a'\nIf \%a is not defined and %b is, it will return 'test \%b'\nIf \%a and \%b are not defined and\n  - \%c is defined : it will return 'def 123 \%c'\n  - \%d is defined : it will return 'def 456 \%d'
+
+366 = Help
+
+367 = > %pic.dailydate\n\nDaily Date

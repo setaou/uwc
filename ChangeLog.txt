@@ -1,0 +1,105 @@
+* Version 1.6.6
+Fix : A photos.txt file with no entry caused the program to crash.
+Fix : A "/" in the title of a photo caused the program to crash when trying to save it.
+Feature : The variable %pic.dailydate has been added to the batch conversion expression editor.
+Misc : Removed the "Create WBC" entry from the "Batch Conversion" menu, as it will only be available UWC2.
+Fix : The progress bar of the "Batch Conversion" window was not correctly displayed under Windows Vista.
+Misc : Added a "Make a donation" button on the main window.
+
+New texts to translate : 223, 367
+
+* Version 1.6.5
+Fix : Some reserved characters were not removed when generating filenames
+
+* Version 1.6.4
+Fix : WB0 files could not be opened or converted.
+
+* Version 1.6.3
+Fix : Picture IDs can now contain non numeric characters.
+Fix : IDs of pictures contained in WBC files are now handled correctly.
+
+* Version 1.6.2
+*.wbp files are now recognized by _all_ the functions of the batch conversion window
+The crash which occured when the program tried to create a folder on a network share is now fixed
+If at the startup the program cannot find the choosen language file, it will not crash and the language selection window will appear
+The setup program now allows to choose the prefered language during the installation
+The setup program now installs the correct DLLs under Windows NT4 and 9x
+
+-----
+
+* Version 1.6.1
+Ajout de la gestion des fichiers de collection *.wbp
+Correction d'un bug dans la gestion des langues
+Correction des filtres de sélection des fichiers qui disparaissaient dans la boite de dialogue Fichier -> Ouvrir
+
+* Version 1.6
+Gestion des fichiers album.txt améliorée, on peut voir à quelle catégorie appartiennent les fichiers WB1/WBD dans la liste des détails.
+Lors de l'ajout d'un dossier à la liste de conversion, la barre de progression n'affiche plus "Ajout de ---" en français pour toutes les langues.
+Possibilité de placer une image convertie dans le même dossier que l'original lors d'une conversion de masse.
+Nouveau système de gestion du nommage des fichiers et dossiers lors d'une conversion de masse
+Possibilité d'édition d'un modèle de nommage personnalisé pour les dossiers et les fichiers
+Tous les paramètres de conversion de masse sont maintenant sauvegardés entre les différentes utilisations de UWC.
+
+Textes ajoutés : 134 à 140, 350 à 366
+Textes modifiés : 132, 133
+Textes supprimés : 116, 117, 118
+
+* Version 1.5.2
+Correction de bugs :
+- Certaines lignes non conformes dans un fichier photos.txt provoquaient un crash du logiciel.
+- Le bouton "Convertir" restait sur "Arrêter" même lorsque la conversion était terminée.
+- Certains fichiers WBC corrompus provoquaient une erreur fatale du logiciel.
+- La barre de titre de la fenêtre de conversion de masse n'était pas traduite.
+
+* Version 1.5.1
+Correction de bugs :
+- Erreur lors de la lecture d'un fichier photos.txt qui contenait des lignes vides.
+- UWC ne pouvait déterminer le nom d'un fichier wb1 dont le nom de fichier n'était pas écrit avec les mêmes majuscules/minuscules dans le fichier photos.txt
+- Le filtre supprimant les miniatures ne supprimmait pas celles dont le préfixe "th" était en majuscule.
+
+* Version 1.5
+Internationalisation du programme, les traductions sont situées dans des fichiers .lng
+Lorsqu'on utilise la touche "Tab" pour parcourir les contrôles d'une fenêtre, Ceux-ci sont maintenant dans un ordre logique
+Correction d'un bug lors de la sauvegarde de "toutes les images" d'une collection n'en contenant qu'une seule
+Lorsqu'on glisse un dossier sur la liste de conversion, tous les fichiers webshots qu'il contiens ainsi que ses sous-dossiers sont maintenant ajoutés à la liste
+Lors de l'ajout du contenu d'un dossier à la liste de conversion, on peut maintenant arrêter le processus en appuyant sur la touche Echap
+Ajout d'une fenêtre de choix de la langue. Elle s'ouvre au premier lancement du logiciel, puis lorsqu'elle est appelée depuis le menu approprié de la fenêtre principale
+Ajout de choix "Site Web" et "Contact / Report de bug" dans le menu "?"
+Conversion de masse : séparation de la case du dossier de destination du reste des paramètres en vue d'ajouter une nouvelle fonction
+Conversion de masse : L'état de la case "Eviter les doublons" est maintenant mémorisé entre deux utilisations d'UWC, celà permet de simplifier la têche de ceux qui possèdent un ordinateur relativement lent :)
+
+* Version 1.4
+Optimisation de l'ajout récursif de fichiers à la liste de conversion : le test de doublons n'est plus obligatoire -> ajout d'une case a cocher de choix
+Correction du blocage lors de la conversion d'un grand nombre de fichiers
+Les commandes de la fenêtre de conversion sont désormais désactivées lorsque la conversion est en cours
+Correction de la fenêtre de log qui ne fonctionnait plus lorsque le texte de log faisait plus de 32Ko
+Agrandissement de la taille minimum de la fenêtre de conversion de masse
+Ajout de la possibilité d'arrêter une conversion en cours
+Ajout d'un filtre pour supprimer les vignettes de la liste de conversion
+
+* Version 1.3
+Correction d'un bug dans le redimensionnement de la fenêtre de conversion
+Elimination des caractères suivants des noms de fichiers : \ / : * ? " < > |
+Possibilité de créer un fichier de log pour repérer les problèmes. (en démarrant "UWC.exe -logfile" ou "UWC.exe -logfilekeep", le log est créé dans "chemin_de_UWC\log.txt")
+Amélioration de la rapidité de l'ajout des fichiers à la liste de conversion
+Modification de la gestion du CTRL-A dans la liste de conversion
+L'ajout d'un dossier et de ses sous dossiers à la liste de conversion montre maintenant son parcours dans la barre de progression
+Ajout de "Sélectionner tout" et "Inverser la sélection" au menu contextuel de la liste de conversion
+Ajout de la gestion du comportement à prendre si un fichier existe déjà lors d'une conversion
+Log de conversion plus détaillé
+
+* Version 1.2
+Prise en charge des fichier photos.txt et album.txt pour associer les informations aux fichiers wb1 et wbd
+Prise en charge des fichiers photos.txt et album.txt lors de la conversion de masse
+Conversion de masse : Ajout d'une fenêtre spécialisée pour ajouter un dossier à la liste
+Conversion de masse : Possibilité d'ajouter à la liste un dossier et ses sous-dossiers
+Conversion de masse : Fenêtre redimentionnable
+Ajout d'une liste contenant les informations sur l'image lors de la visualisation de celle-ci.
+Conversion de masse : La fenêtre d'ajout de dossier mémorise maintenant le dernier dossier parcouru
+
+* Version 1.1 (Première version publique)
+Conversion de masse : Possibilité de supprimer un ou plusieurs fichiers de la liste (sélection multiple, crtl-a pour tout sélectionner)
+Conversion de masse : Possibilité d'effacer toute la liste
+Conversion de masse : Il est désormais impossible de mettre deux fois un même fichier dans la liste
+Conversion de masse : Menu sur clic-droit dans la liste pour ouvrir ou supprimer de la liste les images sélectionnées.
+Conversion de masse : Possibilité de créer un dossier lors du choix du dossier de destination

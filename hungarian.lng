@@ -1,0 +1,205 @@
+//---------------------------
+// Ultimate Webshots Converter language file
+//---------------------------
+// If you want to translate UWC in your own language,
+// simply tranlate this file, change the 4 fields
+// below and save it to a new name.
+//
+// Please be careful to leave at least one space before
+// and after the equals character on each line
+//
+// You can add comments by adding // at the begining of
+// the line. You cannot add a comment at the end of a line.
+//---------------------------
+
+language = Magyar (Hungarian)
+translator = Scheib János
+version = 1.6
+date = 05/04/2005
+
+//---------------------------
+// Main
+//---------------------------
+1 = Fájl
+2 = Megnyit
+3 = Kilép
+4 = Átalakítás
+5 = Kötegelt átalakítás
+6 = WBC Létrehozás (hamarosan)
+7 = Névjegy
+
+8 = A megnyitandó fájl nem egy ismert Webshots típus vagy sérült.\r\n\nFájl : %s
+9 = Hiba : Ismeretlen fájl típus
+
+10 = Webshots fájl megnyitása
+
+13 = A megnyitandó fájl nem létezik!\r\n\nFájl : %s
+14 = Hiba : Fájl nem található
+
+15 = Beállítások
+16 = Válassz nyelvet
+
+18 = Honlap
+19 = Kapcsolat / hibajelentés
+
+//---------------------------
+// About dialog
+//---------------------------
+11 = %s névjegye
+12 = Köszönet :
+17 = %sra fordította : %s
+20 = Verzió %s
+
+//---------------------------
+// Batch conversion Browse for Folder
+//---------------------------
+50 = Mappa kijelölése
+51 = (Nincs kijelölt mappa)
+52 = Alkönyvtárakban is
+53 = &Mégse
+54 = &Ok
+
+//---------------------------
+// Batch conversion
+//---------------------------
+100 = Fájlok
+101 = + M&appa
+102 = + &Fájl
+103 = - F&ájl
+104 = &Törlés
+105 = &Duplikációk mellõzése
+
+106 = Mindet kijelöli
+107 = Kijelölés megfordítása
+108 = Szûrõk
+109 = Elõnézetek eltávolítása
+110 = Duplikációk eltávolítása (hamarosan)
+111 = Egyéni (hamarosan)
+112 = Megnyit
+113 = Eltávolít
+
+114 = Beállítások
+115 = Célmappa
+119 = Ha egy fájl már létezik :
+120 = Kihagy
+121 = Felülír
+122 = Átnevez
+123 = &Átalakítás !
+124 = &Stop
+
+125 = Legalább egy fájlt ki kell választanod az átalakításhoz !
+126 = Ki kell jelölnöd a célmappát !
+127 = Egy létezõ célmappát kell kiválasztanod !
+128 = Napló
+129 = Hiba !
+
+130 = Célmappa megnyitása
+131 = Fájl hozzáadása az átalakítási listához
+
+132 = [1. tipp] Ide húzhatsz és dobhatsz fájlokat és mappákat, hogy hozzáadd õket a listához    [2. tipp] Jobb egérgombbal kattintva kapsz egy helyi menüt !
+133 = Megegyezik a forrásmappával
+
+134 = Tegye a fájlokat a mappa gyökerébe
+135 = Készítsen minden egyes gyûjteménynek (WBC) mappát
+136 = Rendezze a fájlokat az eredeti kategóriáik alapján
+
+137 = Tartsa meg az eredeti fájlnevet
+138 = Adja a fájlnak a kép nevét
+139 = Adja a fájlnak a kép azonosítóját (ID)
+
+140 = [Testreszab]
+
+//---------------------------
+// Conversion Log
+//---------------------------
+150 = Átalakítás megkezdõdött...
+151 = Felhasználói megszakítás !
+152 = %s átalakítása ...
+153 = Átalakítva [%s]
+154 = Kihagy : [%s] már létezik
+155 = Sikertelen : Nem létezõ vagy sérült fájl !
+156 = Átalakítás kész !
+157 = %d beolvasott fájl, %d képet tartalmaz.
+158 = %d átalakított kép, amibõl %d átnevezve, %d kihagyva.
+159 = Kész
+160 =   --> [%s] átalakítva [%s]
+161 =   --> [%s] kihagyva : [%s] már létezik
+
+//---------------------------
+// WB* Viewer
+//---------------------------
+200 = Elõnézet
+201 = Elõnézet: %s
+202 = > További információk :
+203 =  - Cím : %s
+204 =  - Leírás : %s
+205 =  - Tulajdonos : %s
+206 =  - ID : %s
+207 =  - Méret : %dx%d
+208 =  - Kategória :
+
+209 = Kép mentése
+210 = Ablakhoz illeszt
+211 = Valódi méret
+212 = Összes kép mentése
+
+213 = Ez a fájl sérült vagy nem tartalmaz egyetlen képet sem !
+214 = Hiba : Sérült fájl
+
+215 = Képlista
+216 = %d. számú kép
+217 = Kicsomagol ...
+218 = Betölt ...
+219 = Átméretez ...
+220 = Megjelenít ...
+
+221 = Tallózás a mappához, ahová a gyûjtemény összes képét menti
+222 = Mentés : %s ...
+
+//---------------------------
+// Formats
+//---------------------------
+250 = Webshots Gyûjtemény
+251 = Webshots Arhív
+252 = Webshots Kép
+
+253 = JPEG kép
+254 = Minden Webshots fájl
+255 = Gyûjtemények
+256 = Képek
+257 = Arhívumok
+
+//---------------------------
+// Language choice
+//---------------------------
+300 = Nyelv választás
+301 = Nyelv :
+302 = Verzió : %s
+303 = Fordította : %s
+304 = Dátum : %s
+305 = &Ok
+306 = A nyelvi fájl verzió száma (%s) eltér a UWC verzió számától (%s). Némely szöveg esetleg nem helyesen jelenik meg.
+
+//---------------------------
+// Template editor
+//---------------------------
+350 = Kifejezés szerkesztõ
+351 = Kifejezés :
+352 = Változók
+353 = Leírás
+
+354 = > %pic.title\n\nKép címe
+355 = > %pic.id\n\nKép azonosítója ID
+356 = > %pic.desc\n\nKép leírása
+357 = > %pic.credit\n\nKép tulajdonosa
+358 = > %pic.cat.root\n\nKép fõkategóriája
+359 = > %pic.cat.child\n\nKép alkategõriája
+360 = > %col.title\n\nGyûjtemény címe (csak WBC esetén)
+361 = > %col.filename\n\nGyûjtemény fájlneve (csak WBC esetén)
+362 = > %file.name\n\nKép fájlneve (ha a kép egy gyûjtemény része, ez az eredeti fájlneve a képnek)
+363 = > %file.path\n\nÚtvonal a mappához, amely tartalmazza a képet (vagy a gyûjteményt)
+364 = > %dest.path\n\nA "Kötegelt átalakítás" ablakban kijelölt útvonal.\n\n/!\   Mindig "\"-el végzõdik /!\
+
+365 = A | karakter lehetõvé teszi vagylagos kifejezések létrehozását : ha az elsõ alternatív kifejezésben legalább egy változó vagy al-kifejezés nincs meghatározva (=üres), a UWC kiértékeli a második alternatív kifejezést, és így tovább. A zárójelek közötti kifejezés egy al-kifejezés, ugyanazok a szabályok érvényesek rá, mint a kifejezésekre.\n\nPélda:\n\nabc \%a|test \%b|def (123 \%c|456 \%d)\n\nHa \%a-nak van értéke , az eredmény 'abc \%a'\nHa \%a-nak nincs értéke és %b-nek van, az eredmény 'test \%b'\nHa \%a és \%b üres és\n  - \%c-nek van értéke : az eredmény 'def 123 \%c'\n  - \%d-nek van értéke : az eredmény 'def 456 \%d'
+
+366 = Súgó

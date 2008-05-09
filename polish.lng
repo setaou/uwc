@@ -1,0 +1,204 @@
+//---------------------------
+// Ultimate Webshots Converter language file
+//---------------------------
+// If you want to translate UWC in your own language,
+// simply tranlate this file, change the 4 fields
+// below and save it to a new name.
+//
+// Please be careful to leave at least one space before
+// and after the equals character on each line
+//
+// You can add comments by adding // at the begining of
+// the line. You cannot add a comment at the end of a line.
+//---------------------------
+
+language = Polish
+translator = Lemarcius-Kraków
+version = 1.6
+date = 18/09/2004
+
+//---------------------------
+// Ustawienie g³ówne
+//---------------------------
+1 = Plik
+2 = Otwórz
+3 = Wyjœcie
+4 = Konwersja
+5 = Partia Konwersji
+6 = Pokaz Kreacji WBZ (wkrótce)
+7 = O Programie
+
+8 = Plik Który chcesz otworzyæ nie jest plikiem Typu Webshots lub jest uszkodzony.\r\n\nFile : %s
+9 = B³¹d : Nieznany typ pliku
+
+10 = Otwórz Webshots plik
+
+13 = Plik który chcesz otworzyæ nie isnieje !\r\n\nFile : %s
+14 = B³¹d : Pliku nie znaleziono
+
+15 = Opcje
+16 = Zmieñ Jêzyk
+
+18 = Strona Programu
+19 = Kontakt /  Reportuj b³¹d /
+
+//---------------------------
+// About dialog
+//---------------------------
+11 = O %s
+12 = ¯yczenia :
+17 = Przt³umaczono w %s : %s
+20 = Wersja %s
+
+//---------------------------
+// Pregl¹darka grupy konwersji dla Katalogu
+//---------------------------
+50 = Otwórz Katalog który chcesz dodaæ
+51 = (Nie wybrano Katalogu)
+52 = Powtórz Katalog
+53 = &Odwo³aj
+54 = &Ok
+
+//---------------------------
+// Grupa konwersji
+//---------------------------
+100 = Pliki
+101 = + K&atalog
+102 = + &Plik
+103 = - P&lik
+104 = &Wyczyœæ
+105 = U&nikaj zdublowanych plików
+106 = Wybierz wszystko
+107 = Odwróæ wyselekcjonowane
+108 = Filtry
+109 = Usuñ przegl¹d
+110 = Usuñ duplikaty (wkrótce)
+111 = Ustawienia w³asne (wkrótce)
+112 = Otwórz
+113 = Usuñ
+
+114 = Ustawienia
+115 = Folder Przeznaczenia
+119 = Je¿eli plik istnieje :
+120 = Przeskocz
+121 = Zamieñ
+122 = Zmieñ nazwê
+123 = &Konweruj !
+124 = &Stop
+
+125 = Musisz wybraæ co najmniej jeden plik do konwersji !
+126 = Musisz wybraæ Katalog przeznaczenia !
+127 = Musisz wybraæ istniej¹cy Katalog przeznaczenia!
+128 = Dziennik - zapisanie
+129 = B³¹d !
+
+130 = Otwórz Katalog Przeznaczenia
+131 = Dodaj plik do listy konwersji
+
+132 = [Rada 1] Mo¿esz preci¹gn¹æ i upuœciæ plik i katalog tutaj dla dodania do listy    [Rada 2] Prawy klik na pliku w liœcie pokazuje opcje menu !
+133 = Taki sam Katalog jak oryginalny
+
+134 = Wstaw pliki do katalogu ¿ród³owegor
+135 = Utwórz Katalog dla ka¿dej Kolekcji (WBC)
+136 = Sortuj pliki zgodnie ich oryginaln¹ katergori¹
+
+137 = Zatrzymaj orginaln¹ nazwê pliku
+138 = Nadaj nazwê obrazkowi
+139 = Nadaj plikom ID obrazku
+
+140 = [W³asne]
+
+//---------------------------
+// Dziennik konwersji
+//---------------------------
+150 = Konwersja  startuje ...
+151 = Decydujesz kiedy zatrzymaæ !
+152 = Konwersja w %s ...
+153 = Zkonwertowano w [%s]
+154 = Przeskok : [%s] ju¿ istniej¹ce
+155 = B³¹d : Uszkodzony plik !
+156 = KONWERSJA ZAKOÑCZONA !
+157 = %d zeskanowanych plików,zawiera %d wizerunków
+158 = %d zkonwertowanych plików,  z %d zmienionych nazwami, %d przeskok.
+159 = Koniec
+160 =   --> [%s] konwersja w [%s]
+161 =   --> [%s] przeskoczono : [%s] ju¿ istniej¹ce
+
+//---------------------------
+// WB* Przegl¹darka
+//---------------------------
+200 = Przegl¹d
+201 = Przegl¹d : %s
+202 = > Dodatkowe informacje :
+203 =  - Tytu³ : %s
+204 =  - Deskrypce : %s
+205 =  - Zaliczenie : %s
+206 =  - ID : %s
+207 =  - Rozmiar : %dx%d
+208 =  - Kategoria :
+
+209 = Zachowaj obrazek
+210 = Dopasowanie do okna
+211 = Prawdziwy Rozmiar
+212 = Zachowaj wszystkie obrazki
+
+213 = Ten plik jest uszkodzony lub niekontatybilny z ¿adnym obrazkiem !
+214 = B³¹d : Uszkodzony plik
+
+215 = Lista obrazków
+216 = Obrazek n° %d
+217 = Wydobycie ...
+218 = £adowanie ...
+219 = Zmiana rozmiaru ...
+220 = Pokazuj ...
+
+221 = Otwórz Katalog gdzie zapisa³eœ swoj¹ kolekcjên
+222 = Zapisano : %s ...
+
+//---------------------------
+// Format
+//---------------------------
+250 = Webshots Kolekcja
+251 = Webshots Archiwum
+252 = Webshots Obrazek
+
+253 = JPEG Obrazek
+254 = Wszystkie Webshots pliki
+255 = Kolekcja
+256 = Obrazki
+257 = Archiwalne
+
+//---------------------------
+// Zmiana Jêzyka
+//---------------------------
+300 = Wybór jêzyka
+301 = Jêzyk :
+302 = Wersja : %s
+303 = T³umacz : %s
+304 = Dane : %s
+305 = &Ok
+306 = The version number of the language file (%s) differs UWC version number (%s). Some texts may not be correctly displayed.
+
+//---------------------------
+// Edytor Szablonów
+//---------------------------
+350 = Edytor ekspresji
+351 = Expresja :
+352 = Zmiany
+353 = Deskrypcja-Opis
+
+354 = > %pic.title\n\nNazwa obrazka
+355 = > %pic.id\n\nObrazek ID
+356 = > %pic.desc\n\nOpis obrazka
+357 = > %pic.credit\n\nZaliczenie obrazka
+358 = > %pic.cat.root\n\nKategoria ¿ród³owa obrazka
+359 = > %pic.cat.child\n\nWczesna kategoria obrazka
+360 = > %col.title\n\nTytu³ Kolekcji (WBC tylko)
+361 = > %col.filename\n\nNazwa Pliku Kolekcji (WBC tylko)
+362 = > %file.name\n\nNazwa Obrazku (jeœli obrazek jest czêœci¹ kolekcji to jest oryginalna nazwa obrazk)
+363 = > %file.path\n\nœcie¿ka do katalogu z obrazkami (lub kolekcji)
+364 = > %dest.path\n\nWybrana œcie¿ka w "Partii Konwersji" okno.\n\n/!\   Zawsze koniec z "\"   /!\
+
+365 = The character | allows to define alternative expressions : if, in the first alternative expression, at least one variable or sub-expression is not defined (= is empty), UWC will evaluate the second alternative expression, and so on. An expression between parenthesis is a sub-expression, the same rules as in the expressions are applied.\n\nExample:\n\nabc \%a|test \%b|def (123 \%c|456 \%d)\n\nIf \%a is defined, it will return 'abc \%a'\nIf \%a is not defined and %b is, it will return 'test \%b'\nIf \%a and \%b are not defined and\n  - \%c is defined : it will return 'def 123 \%c'\n  - \%d is defined : it will return 'def 456 \%d'
+
+366 = Pomoc

@@ -1,0 +1,203 @@
+//---------------------------
+// Ultimate Webshots Converter language file
+//---------------------------
+// If you want to translate UWC in your own language,
+// simply tranlate this file, change the 4 fields
+// below and save it to a new name.
+//
+// Please be careful to leave at least one space before
+// and after the equals character on each line
+//
+// You can add comments by adding // at the begining of
+// the line. You cannot add a comment at the end of a line.
+//---------------------------
+
+language = Srpskohrvatski (Serbocroat)
+translator = Damir Kucuk
+version = 1.6
+date = 20/09/2005
+
+//---------------------------
+// Glavno
+//---------------------------
+1 = Datoteka
+2 = Otvori
+3 = Izlaz
+4 = Konvertuj
+5 = Skupna Konverzija
+6 = WBC Kreacije (uskoro)
+7 = O programu
+
+8 = Datoteka koju pokusavate da otvorite je nepoznati tip datoteke ili je ostecena.\r\n\nFile : %s
+9 = Greska : nepoznati tip datoteke
+
+10 = Otvori Webshots datoteku
+
+13 = Datoteka koju pokusavate da otvorite nepostoji !\r\n\nFile : %s
+14 = Greska : Datoteka nije pronadjena
+
+15 = Opcije
+16 = Izaberi jezik
+
+18 = Website
+19 = Kontakt / Izvestaj o bug-u
+
+//---------------------------
+// Okvir za dijalog
+//---------------------------
+11 = O.. %s
+12 = Pozdravi :
+17 = Prevod na %s : %s
+20 = Verzija %s
+
+//---------------------------
+// Skupna Konverzija pronadji direktorijum
+//---------------------------
+50 = Pronadji direktorijum koji zelite dodati
+51 = (Nema selekcionisanog direktorijuma)
+52 = Izvorni direktorijum
+53 = &Otkazi
+54 = &U redu
+
+//---------------------------
+// Skupna Konverzija
+//---------------------------
+100 =Datoteka
+101 = + D&irektorijum
+102 = + &Datoteka
+103 = - D&atoteka
+104 = &Obrisi
+105 = Izbegni duplikate
+
+106 = Obelezi sve 
+107 = Preinaci obelezeno
+108 = Filteri
+109 = Ukini pregled
+110 = Ukini duplo (uskoro)
+111 = Custom (uskoro)
+112 = Otvori
+113 = Remove
+
+114 = Opcije
+115 = Putanja direktorijuma
+119 = Takava datoteka vec postoji :
+120 = Izbegni
+121 = Preko postojeceg
+122 = Preimenuj
+123 = &Zapocni konverziju !
+124 = &Stop
+
+125 = Morate izabrati najmanje jednu datoteku za konverziju !
+126 = Morate izabrati putanju direktorijuma !
+127 = Morate izabrati postojecu putanju direktorijum  !
+128 = Log
+129 = Greska !
+
+130 = Pronadji odredisni direktorijum
+131 = Dodaj datoteku konverzacijskoj listi
+
+132 = [Savet br 1] Mozete drag'n'drop datoteke i direktorijume ovde kako bi dodali listi    [Savet br 2] Desni klik na datoteku na listi kako bi dobili opcije !
+133 = Isti direktorijum kao i orginalni
+
+134 = Uputi datoteku na glavni direktorijum
+135 = Napravi direktorijum za svaku kolekciju (WBC)
+136 = Sortirajte datoteke  prema orginalnim kategorijama
+
+137 = Sacuvaj te orginalne nazive datoteke
+138 = Dajte datotekama naziv po slici
+139 = Dajte datotekama naziv po ID slike
+
+140 = [Prilagodi]
+
+//---------------------------
+// Konverzijski Log
+//---------------------------
+150 = Konverzija je zapocela ...
+151 = Korisnik je odlucio da prekine !
+152 = Konverzija %s ...
+153 = Konverzija u [%s]
+154 = Preskoci : [%s] vec postoji
+155 = Neuspelo : Nepostojeca ili ostecena datoteka !
+156 = Konverzija je zavrsena !
+157 = %d skeniranje datoteka, sadrzi %d slike.
+158 = %d Konverzija slika, od kojih %d preimenuj, %d preskoci.
+159 = Zavrseno
+160 =   --> [%s] Konverzija u [%s]
+161 =   --> [%s] Preskoci : [%s] vec postoji
+//---------------------------
+// WB* Pregled
+//---------------------------
+200 = Pregledaj
+201 = pregledaj : %s
+202 = > Dodatne informacije :
+203 =  - Naslov : %s
+204 =  - Objasnjenje : %s
+205 =  - Zasluge idu : %s
+206 =  - ID : %s
+207 =  - Velicina : %dx%d
+208 =  - Kategorija :
+
+209 = Sacuvaj sliku
+210 = Uklopi u velicinu prozora
+211 = Prava velicina
+212 = Sacuvaj sve slike
+
+213 = Ova datoteka je ostecena ili nema informacije o slici !
+214 = Greska : Ostecena datoteka
+
+215 = Lista slika
+216 = Slika n° %d
+217 = Izdvaja ...
+218 = Puni se  ...
+219 = Promena velicine ...
+220 = Prikazi ...
+
+221 = Nadji direktorijum u kome cete sacuvati sve slike iz kolekcije
+222 = Snima : %s ...
+
+//---------------------------
+// Formats
+//---------------------------
+250 = Webshots Kolekcija
+251 = Webshots Arhiva
+252 = Webshots Slika
+
+253 = JPEG Slike
+254 = Sve Webshots datoteke
+255 = Kolekcija
+256 = Slika
+257 = Arhiva
+
+//---------------------------
+// Jezicki izbor
+//---------------------------
+300 = Jezicki izbor
+301 = Jezik :
+302 = Verzija : %s
+303 = Prevod : %s
+304 = Datum : %s
+305 = &Uredu
+306 = Ova verzija jezicke datoteke (%s) razlikuje se od UWC verzije br (%s). Neka slova mogu biti nepravilno prikazana.
+//---------------------------
+// Uredjivac Sablona
+//---------------------------
+350 = Objasnjenje editor
+351 = Objasnjenje :
+352 = Promenjljiva
+353 = Opis
+
+354 = > %pic.title\n\nPicture title
+355 = > %pic.id\n\nPicture ID
+356 = > %pic.desc\n\nPicture description
+357 = > %pic.credit\n\nPicture credits
+358 = > %pic.cat.root\n\nPicture root category
+359 = > %pic.cat.child\n\nPicture child category
+360 = > %col.title\n\nCollection title (WBC only)
+361 = > %col.filename\n\nCollection file name (WBC only)
+362 = > %file.name\n\nPicture file name (if the picture is a part of a collection, it is the original file name of the picture)
+363 = > %file.path\n\nPath to the folder which contains the picture (or the collection)
+364 = > %dest.path\n\nPath selected in the "Batch Conversion" window.\n\n/!\   Always ends with a "\"   /!\
+
+365 = The character | allows to define alternative expressions : if, in the first alternative expression, at least one variable or sub-expression is not defined (= is empty), UWC will evaluate the second alternative expression, and so on. An expression between parenthesis is a sub-expression, the same rules as in the expressions are applied.\n\nExample:\n\nabc \%a|test \%b|def (123 \%c|456 \%d)\n\nIf \%a is defined, it will return 'abc \%a'\nIf \%a is not defined and %b is, it will return 'test \%b'\nIf \%a and \%b are not defined and\n  - \%c is defined : it will return 'def 123 \%c'\n  - \%d is defined : it will return 'def 456 \%d'
+
+366 = Pomoc

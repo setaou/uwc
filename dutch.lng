@@ -1,0 +1,205 @@
+//---------------------------
+// Ultimate Webshots Converter language file
+//---------------------------
+// If you want to translate UWC in your own language,
+// simply tranlate this file, change the 4 fields
+// below and save it to a new name.
+//
+// Please be careful to leave at least one space before
+// and after the equals character on each line
+//
+// You can add comments by adding // at the begining of
+// the line. You cannot add a comment at the end of a line.
+//---------------------------
+
+language = Nederlands (Dutch)
+translator = Simon	
+version = 1.6
+date = 03/10/2004
+
+//---------------------------
+// Main
+//---------------------------
+1 = Bestand
+2 = Openen
+3 = Sluiten
+4 = Conversie
+5 = Batch conversie
+6 = Maken van WBC (binnenkort)
+7 = Info
+
+8 = Het bestand dat U wil openen is geen geldig WebShots bestand of is beschadigd.\r\n\nBestand : %s
+9 = Fout : Onbekend bestandstype
+
+10 = Een WebShots bestand openen
+
+13 = Het bestand dat U wil openen bestaat niet! \r\n\nBestand : %s
+14 = Fout : Onbestaand bestand !
+
+15 = Opties
+16 = Taal kiezen
+
+18 = Website
+19 = Contact / Foutmeldingen
+
+//---------------------------
+// About dialog
+//---------------------------
+11 = Over%s
+12 = Met dank aan :
+17 = Vertaald naar het %s : %s
+20 = Versie %s
+
+//---------------------------
+// Batch conversion Browse for Folder
+//---------------------------
+50 = Kies het toe te voegen bestand
+51 = (Geen bestand geselecteerd)
+52 = Sub-mappen doorlopen
+53 = &Annuleren
+54 = &Ok
+
+//---------------------------
+// Batch conversion
+//---------------------------
+100 = Bestanden
+101 = + &Map
+102 = + &Bestand
+103 = - B&stand
+104 = &Wissen
+105 = D&ubbels vermijden
+
+106 = Alles selecteren
+107 = Selectie omkeren
+108 = Filters
+109 = Previews verwijder
+110 = Dubbels verwijderen (binnenkort)
+111 = Gepersonaliseerd (binnenkort)
+112 = Openen
+113 = Verwijderen
+
+114 = Parameters
+115 = Doelmap
+119 = Indien het bestand reeds bestaat:
+120 = Overslaan
+121 = Overschrijven
+122 = Hernoemen
+123 = &Omzetten !
+124 = S&toppen
+
+125 = U moet minstens een bestand kiezen om te converteren!
+126 = U moet een doelmap kiezen!
+127 = U moet een bestaande doelmap kiezen!
+128 = Log
+129 = Fout !
+
+130 = Kies een doelmap
+131 = Een bestand aan de conversielijst toevoegen
+
+132 = [Tip 1] U kan hier mappen en bestanden slepen om aan de lijst toe te voegen [Tip 2] Een rechter muisklik op een bestand opent een optie menu !
+133 = Zelfde map als het origineel
+
+134 = Bestand in de root plaatsen
+135 = Voor iedere verzameling een nieuwe map aanmaken(WBC)
+136 = De bestanden volgens oorspronkelijke categorie schikken
+
+137 = Bestandsnaam behouden
+138 = Bestand genoemd naar naam van afbeelding
+139 = Bestand genoemd naar nummer afbeelding
+
+140 = [Personaliseren]
+
+//---------------------------
+// Conversion Log
+//---------------------------
+150 = Conversie gestart...
+151 = Gestopt door gebruiker!
+152 = Conversie van %s ...
+153 = Opgeslagen in [%s]
+154 = Overgeslagen : [%s] bestaat reeds
+155 = Gefaald : Onjuist of leeg bestand!
+156 = Conversie volledig !
+157 = %d doorlopen bestanden, goed voor %d afbeeldingen.
+158 = %d opgeslagen afbeeldingen waarvan, %d hernoemd, %d overgeslagen.
+159 = Voltooid
+160 =   --> [%s] opgelagen in [%s]
+161 =   --> [%s] overgeslagen : [%s] bestaan reeds
+
+//---------------------------
+// WB* Viewer
+//---------------------------
+200 = Preview
+201 = Preview : %s
+202 = > Bijkomende informatie:
+203 =  - Titel : %s
+204 =  - Omschrijving : %s
+205 =  - Credits : %s
+206 =  - ID : %s
+207 =  - Afmeting : %dx%d
+208 =  - Categorie :
+
+209 = Afbeelding opslaan
+210 = Aan venster aanpassen
+211 = Werkelijke afmeting
+212 = Alle afbeeldingen opslaan
+
+213 = Dit bestand is ongeldig of bevat geen enkele afbeelding!
+214 = Fout : Beshadigd bestand
+
+215 = Lijst van de afbeeldingen
+216 = Afbeelding n° %d
+217 = Extractie ...
+218 = Laden ...
+219 = Formaat aanpassing ...
+220 = Tonen ...
+
+221 = Kies het doelbestand waar de totaliteit van de afbeeldingen van de verzameling worden opgeslagen.
+222 = Opslaan : %s ...
+
+//---------------------------
+// Formats
+//---------------------------
+250 = Webshots verzameling
+251 = Webshots archief
+252 = Webshots afbeelding
+
+253 = Afbeelding in JPEG
+254 = Alle WebShots bestanden
+255 = Vezamelingen
+256 = Afbeeldingen
+257 = Archieven
+
+//---------------------------
+// Language choice
+//---------------------------
+300 = Taalkeuze
+301 = Taal :
+302 = Versie : %s
+303 = Vertaler : %s
+304 = Datum : %s
+305 = &Ok
+306 = Het taalbestand (%s) veschilt met de versie van UWC (%s). Sommige teksten worden misschien niet correct weergegeven.
+
+//---------------------------
+// Template editor
+//---------------------------
+350 = Editeur d'expression
+351 = Expression :
+352 = Variables
+353 = Description
+
+354 = > %pic.title\n\Naam afbeelding
+355 = > %pic.id\n\nN° afbeelding
+356 = > %pic.desc\n\nOmschrijving afbeelding
+357 = > %pic.credit\n\nCredits afbeelding
+358 = > %pic.cat.root\n\nHoofdcategorie van de afbeelding
+359 = > %pic.cat.child\n\nSubcategorie van de afbeelding
+360 = > %col.title\n\nTitel van de verzameling (uitsluitend WBC)
+361 = > %col.filename\n\nBestandsnaam van de verzameling (uitsluitend WBC)
+362 = > %file.name\n\nBestandsnaam van de afbeelding (originele naam voor afbeeldingen die deel uitmaken van een verzameling)
+363 = > %file.path\n\nPad van afbeeldingsbestand (of de verzameling )
+364 = > %dest.path\n\nPad van "Doelbestand" in venster van de Batch Conversie.\n\n/!\   Altijd eindigend met "\"   /!\
+
+365 = Het letterteken | laat alternatieve uitderukkingen toe : indien, in de eerste alternatieve uitdrukking, minstens een variabele of sub-uitdrukking niet gedefinieerd wordt (= leeg), zal UWC de tweede alternatieve uitdrukking evalueren, en zo ook volgende. Een uitdrukking tussen aanhalingstekens is een sub-uitdrukking, hier gelden dezelfde regels als voor uitdrukkingen.\n\nVoorbeeld:\n\nabc \%a|test \%b|def (123 \%c|456 \%d)\n\nSi \%a is gedefinieerd, geeft als uitslag 'abc \%a'\nAls \%a niet gedefinieerd is en\%b wel, is het resultaat 'test \%b'\nALS \%a et \%b niet gedefinieerd zijn  en \n  - \%c wel : is de uitslag van 'def 123 \%c'\n  - \%d gedefinieerd : uitslag 'def 456 \%d'
+
+366 = Aide
